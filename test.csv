@@ -1,0 +1,1305 @@
+trustii_id,Manufacturer,Body Style,Fuel Efficiency,Engine Volume,Powertrain,License Status,Manufacture Year,Variant,Location,Distance Covered,Gearbox,Owner_Type
+1,BMW,sedan,147,2.2,Gas,no,2001,320,agadir,47000,Manual,First
+2,Toyota,crossover,208,2.0,Petrol,yes,2006,Rav 4,tetouan,37000,Manual,First
+3,Audi,crossover,71,2.0,Petrol,yes,2011,Q5,Casablanca,43081,Manual,First
+4,Renault,van,160,1.5,Diesel,yes,2014,Kangoo,dakhla,12500,Manual,First
+5,Mitsubishi,other,290,2.0,Petrol,yes,1990,Galant,sefrou,33000,Manual,Second
+6,Mercedes-Benz,sedan,100,3.5,Petrol,yes,2010,S 350,tetouan,2900,Manual,First
+7,BMW,sedan,200,2.0,Diesel,no,2002,320,oujda,62000,Manual,First
+8,Audi,sedan,370,2.3,Petrol,yes,1991,100,dakhla,95150,Manual,Third
+9,Mercedes-Benz,sedan,240,2.2,Diesel,no,2004,E-Class,mekness,70000,Manual,First
+10,BMW,sedan,250,3.0,Diesel,no,2002,330,sefrou,40000,Automatic,First
+11,Renault,van,101,1.5,Diesel,yes,2012,Kangoo,oujda,154000,Manual,First
+12,Renault,sedan,240,1.7,Gas,yes,1988,9,rabat,156347,Manual,Second
+13,Volkswagen,crossover,148,3.0,Diesel,yes,2007,Touareg,agadir,80000,Manual,First
+14,Renault,sedan,69,1.4,Petrol,yes,2012,Symbol,marrakech,63000,Automatic,Second
+15,Mercedes-Benz,other,315,2.0,Petrol,yes,1996,E-Class,tanger,26927,Manual,First
+16,Mercedes-Benz,van,30,2.2,Diesel,yes,2006,Vito,hosseima,35487,Manual,First
+17,Mercedes-Benz,sedan,222,3.0,Gas,yes,2007,E-Class,hosseima,29279,Manual,First
+18,Volkswagen,van,400,1.9,Diesel,yes,1995,T4 (Transporter),mekness,55000,Manual,First
+19,Volkswagen,van,270,2.4,Diesel,yes,1993,T4 (Transporter),agadir,20000,Manual,First
+20,Mercedes-Benz,hatch,178,1.7,Diesel,no,1999,A 170,tetouan,45501,Manual,First
+21,Renault,vagon,184,1.5,Diesel,yes,2011,Megane,Casablanca,11900,Automatic,First
+22,Renault,crossover,138,2.5,Gas,yes,2008,Koleos,Casablanca,24000,Manual,First
+23,Mercedes-Benz,sedan,370,2.0,Petrol,yes,1997,E-Class,oujda,45000,Automatic,First
+24,Toyota,crossover,133,2.7,Gas,yes,2007,Land Cruiser Prado,oujda,55000,Manual,Second
+25,Mercedes-Benz,other,266,3.0,Diesel,yes,2007,E-Class,marrakech,52237,Manual,First
+26,Volkswagen,van,345,1.9,Diesel,no,2002,Sharan,Casablanca,36600,Manual,First
+27,Mercedes-Benz,van,152,2.2,Diesel,yes,2012,Vito,tetouan,9759,Manual,First
+28,BMW,sedan,230,2.5,Petrol,yes,1990,525,rabat,74000,Manual,First
+29,Volkswagen,hatch,311,1.6,Gas,yes,1986,Golf II,tetouan,48000,Manual,First
+30,Volkswagen,van,325,2.5,Diesel,yes,2001,T4 (Transporter),hosseima,62012,Automatic,First
+31,Mitsubishi,crossover,52,2.0,Petrol,yes,2008,Outlander,rabat,32000,Manual,Second
+32,Toyota,other,150,2.7,Gas,yes,2005,Tacoma,tanger,38461,Manual,First
+33,Volkswagen,other,212,2.0,Gas,yes,2007,Caddy,hosseima,37613,Automatic,First
+34,Volkswagen,van,318,1.9,Diesel,yes,1993,T4 (Transporter) ,rabat,70000,Manual,First
+35,Mitsubishi,crossover,254,3.0,Petrol,yes,2002,Pajero Sport,dakhla,38282,Manual,First
+36,BMW,sedan,1,3.0,Diesel,yes,2000,530,tetouan,52000,Manual,First
+37,Toyota,sedan,30,2.5,Petrol,yes,2014,Camry,Casablanca,2000,Manual,First
+38,Toyota,sedan,60,2.5,Gas,yes,2014,Camry,marrakech,21000,Automatic,Second
+39,Volkswagen,van,164,2.0,Diesel,yes,2013,T5 (Transporter) ,agadir,34000,Automatic,First
+40,BMW,sedan,333,3.0,Petrol,yes,1994,730,tanger,48040,Automatic,Second
+41,Mercedes-Benz,other,247,2.2,Diesel,yes,2012,Sprinter 313,oujda,77500,Manual,First
+42,Mitsubishi,sedan,148,2.0,Gas,yes,2008,Lancer X,oujda,91000,Manual,Second
+43,Toyota,crossover,128,4.7,Gas,yes,2004,Land Cruiser 100,agadir,51000,Manual,First
+44,Renault,other,208,1.9,Other,yes,2004,Trafic,rabat,65400,Manual,First
+45,Toyota,vagon,204,1.4,Diesel,yes,2005,Corolla,dakhla,59000,Manual,Second
+46,Volkswagen,other,300,1.4,Gas,yes,2000,Caddy,Casablanca,35000,Automatic,First
+47,Mitsubishi,crossover,96,2.5,Diesel,yes,2011,Pajero Sport,hosseima,34267,Manual,First
+48,Volkswagen,vagon,198,1.9,Other,yes,2004,Passat B5,rabat,109200,Manual,Second
+49,Mercedes-Benz,crossover,160,3.0,Diesel,yes,2013,GL 350,marrakech,74000,Manual,First
+50,Toyota,crossover,165,2.7,Petrol,yes,2005,Land Cruiser Prado,rabat,140000,Manual,First
+51,BMW,sedan,220,2.2,Gas,yes,2001,5 Series,mekness,75000,Manual,First
+52,Mercedes-Benz,crossover,0,3.0,Diesel,yes,2016,GLE-Class,oujda,26000,Manual,First
+53,Mitsubishi,crossover,1,2.5,Diesel,yes,2007,L 200,tanger,29311,Automatic,First
+54,Volkswagen,van,143,1.6,Diesel,yes,2011,Caddy,tetouan,70623,Manual,First
+55,Volkswagen,vagon,95,1.6,Diesel,yes,2010,Passat B6,rabat,121000,Manual,First
+56,Mercedes-Benz,sedan,385,1.8,Petrol,yes,1995,C-Class,rabat,22000,Manual,First
+57,Audi,vagon,333,2.5,Diesel,no,2000,A6,mekness,57000,Manual,First
+58,Mercedes-Benz,sedan,261,1.8,Petrol,yes,2003,E-Class,oujda,80883,Manual,First
+59,Mercedes-Benz,other,65,1.8,Petrol,yes,2011,E-Class,rabat,78000,Manual,Second
+60,BMW,crossover,214,4.4,Petrol,no,2000,X5,rabat,30000,Manual,First
+61,Mercedes-Benz,van,230,2.2,Diesel,yes,2008,Vito,Casablanca,69123,Automatic,First
+62,BMW,sedan,170,3.0,Petrol,yes,2011,530,dakhla,100000,Manual,First
+63,Renault,van,200,1.9,Diesel,yes,2002,Trafic,marrakech,72000,Manual,First
+64,Renault,van,170,1.5,Diesel,yes,2012,Grand Scenic,hosseima,29219,Manual,First
+65,BMW,crossover,0,3.0,Diesel,yes,2016,X6,dakhla,18000,Manual,First
+66,Mercedes-Benz,other,168,5.0,Petrol,yes,2002,CL 500,Casablanca,45200,Automatic,First
+67,Toyota,crossover,288,4.7,Gas,yes,2000,Land Cruiser 100,tanger,29091,Manual,First
+68,Mercedes-Benz,crossover,27,3.0,Diesel,yes,2015,G 350,tanger,63854,Manual,First
+69,Toyota,crossover,0,4.5,Diesel,yes,2016,Land Cruiser 200,dakhla,100030,Manual,Second
+70,Toyota,sedan,144,3.5,Gas,yes,2007,Camry,Casablanca,37500,Automatic,First
+71,Volkswagen,crossover,30,3.0,Diesel,yes,2015,Touareg,tanger,43337,Manual,First
+72,Volkswagen,other,67,1.8,Other,yes,2008,Passat B6,oujda,45492,Automatic,First
+73,BMW,sedan,313,2.0,Gas,yes,1997,520,tanger,87652,Automatic,Second
+74,Mercedes-Benz,sedan,350,2.2,Diesel,yes,2003,Sprinter 208,oujda,50000,Automatic,First
+75,Volkswagen,vagon,320,1.9,Diesel,no,2000,Passat B5,mekness,28000,Automatic,First
+76,Volkswagen,van,160,2.0,Diesel,yes,2011,T6 (Transporter),oujda,57788,Automatic,First
+77,Mercedes-Benz,other,90,1.8,Petrol,yes,2008,CLC 180,mekness,58000,Manual,First
+78,Mercedes-Benz,sedan,154,3.5,Gas,no,2005,CLS 350,Casablanca,35770,Manual,First
+79,BMW,sedan,43,4.4,Petrol,yes,2013,750,Casablanca,54000,Manual,First
+80,BMW,sedan,170,2.0,Diesel,yes,2011,520,hosseima,20446,Automatic,First
+81,Volkswagen,crossover,194,3.2,Gas,yes,2004,Touareg,hosseima,41981,Manual,First
+82,Toyota,crossover,155,2.7,Gas,yes,2008,Land Cruiser Prado,tanger,15379,Automatic,First
+83,Volkswagen,sedan,185,2.8,Gas,yes,2004,Passat B5,tetouan,23000,Manual,First
+84,Renault,van,120,1.5,Diesel,yes,2014,Kangoo,Casablanca,20000,Manual,First
+85,Audi,crossover,108,2.0,Diesel,yes,2012,Q5,rabat,84000,Automatic,First
+86,Volkswagen,van,154,2.0,Diesel,yes,2013,T5 (Transporter) ,oujda,100000,Manual,First
+87,Mercedes-Benz,van,190,2.2,Diesel,yes,2007,Vito,marrakech,176000,Manual,Second
+88,Mercedes-Benz,sedan,240,3.2,Diesel,yes,2001,E-Class,dakhla,100000,Manual,First
+89,Mercedes-Benz,other,1,4.7,Petrol,yes,2015,S 500,tetouan,1000,Manual,First
+90,Renault,van,216,1.5,Diesel,yes,2010,Kangoo,mekness,73000,Automatic,First
+91,Renault,other,440,2.0,Diesel,yes,2008,Trafic,oujda,35000,Automatic,First
+92,Mitsubishi,other,69,2.5,Diesel,yes,2011,L 200,tetouan,32000,Manual,First
+93,BMW,crossover,1,2.5,Diesel,yes,2016,X5,mekness,52000,Manual,First
+94,BMW,sedan,216,2.0,Diesel,yes,2008,320,tetouan,60000,Manual,First
+95,Mitsubishi,crossover,245,2.8,Diesel,no,1996,Pajero,mekness,51000,Manual,First
+96,Renault,hatch,84,1.5,Diesel,yes,2011,Kangoo,oujda,31025,Manual,First
+97,BMW,sedan,0,2.0,Diesel,yes,2016,320,mekness,51000,Automatic,First
+98,Audi,vagon,210,2.5,Diesel,no,2000,A6,Casablanca,31000,Automatic,First
+99,Mercedes-Benz,crossover,128,3.0,Diesel,yes,2013,ML 350,marrakech,50000,Manual,First
+100,Volkswagen,van,137,1.9,Diesel,yes,2008,Caddy,mekness,75136,Manual,First
+101,Volkswagen,van,230,1.9,Diesel,yes,2008,T5 (Transporter) ,rabat,13769,Manual,Second
+102,Renault,other,189,2.0,Diesel,yes,2012,Trafic,sefrou,65000,Manual,First
+103,Renault,van,137,1.5,Diesel,yes,2012,Grand Scenic,oujda,33000,Automatic,First
+104,Volkswagen,crossover,19,3.0,Diesel,yes,2014,Touareg,hosseima,15334,Manual,First
+105,Mitsubishi,hatch,138,1.3,Petrol,yes,2008,Colt,hosseima,59182,Manual,First
+106,BMW,sedan,1,2.0,Diesel,yes,2008,320,Casablanca,12208,Manual,First
+107,BMW,sedan,200,4.4,Petrol,yes,2001,740,agadir,55000,Manual,First
+108,Volkswagen,van,158,2.5,Diesel,yes,2003,T5 (Transporter),Casablanca,69000,Manual,First
+109,Mitsubishi,sedan,123,2.0,Petrol,yes,2009,Lancer X,marrakech,33000,Automatic,Second
+110,BMW,sedan,245,2.5,Petrol,yes,2007,523,mekness,62000,Automatic,First
+111,Volkswagen,sedan,240,1.6,Petrol,yes,2010,Jetta,marrakech,23000,Manual,First
+112,Mercedes-Benz,other,12,1.8,Petrol,yes,2012,E-Class,oujda,107825,Manual,First
+113,Volkswagen,sedan,2,1.6,Petrol,yes,2015,Jetta,oujda,60453,Manual,First
+114,Mercedes-Benz,van,270,2.2,Diesel,yes,2004,Vito,rabat,13436,Manual,Second
+115,Audi,sedan,136,3.2,Petrol,yes,2007,A6,mekness,51000,Manual,First
+116,BMW,crossover,1,2.0,Diesel,yes,2016,X5,Casablanca,26000,Manual,First
+117,Toyota,sedan,172,1.8,Gas,yes,2005,Avensis,marrakech,62000,Manual,First
+118,BMW,sedan,250,4.4,Petrol,yes,1997,540,mekness,66823,Manual,Second
+119,Mercedes-Benz,sedan,108,5.5,Petrol,yes,2010,S 500,oujda,48000,Automatic,First
+120,Mercedes-Benz,hatch,125,2.3,Petrol,yes,2001,C-Class,oujda,25000,Automatic,First
+121,BMW,crossover,284,3.0,Diesel,no,2004,X5,tanger,58239,Automatic,First
+122,Audi,crossover,67,3.0,Petrol,yes,2013,A6 Allroad,marrakech,120000,Manual,First
+123,Toyota,crossover,125,3.5,Gas,yes,2013,Highlander,marrakech,58500,Automatic,Second
+124,Mercedes-Benz,sedan,270,2.9,Diesel,no,1996,E-Class,hosseima,27339,Manual,First
+125,Mercedes-Benz,van,191,2.2,Diesel,yes,2007,Vito,rabat,49024,Manual,First
+126,Toyota,crossover,80,3.5,Gas,yes,2012,Highlander,tanger,58310,Manual,Second
+127,Volkswagen,van,250,2.5,Diesel,yes,2008,T5 (Transporter),tanger,101337,Automatic,First
+128,Volkswagen,sedan,59,1.6,Gas,yes,2013,Polo,oujda,58163,Manual,First
+129,Volkswagen,hatch,127,1.6,Petrol,yes,2007,Golf V,oujda,299322,Manual,First
+130,Mitsubishi,sedan,52,1.6,Petrol,yes,2013,Lancer X,oujda,53996,Manual,First
+131,Toyota,sedan,131,2.4,Petrol,yes,2007,Camry,mekness,87510,Manual,First
+132,Renault,vagon,89,1.5,Diesel,yes,2013,Megane,oujda,73095,Automatic,First
+133,Mercedes-Benz,crossover,30,5.0,Petrol,yes,2013,G 500,marrakech,58000,Automatic,Second
+134,BMW,sedan,285,2.5,Petrol,yes,1999,525,hosseima,41380,Automatic,Second
+135,Mitsubishi,crossover,115,3.0,Petrol,yes,2008,Outlander XL,hosseima,48163,Manual,First
+136,Volkswagen,other,145,2.4,Diesel,yes,1993,T4 (Transporter),oujda,94753,Manual,First
+137,Mercedes-Benz,sedan,300,2.0,Gas,no,1998,E-Class,Casablanca,133000,Manual,Second
+138,Volkswagen,hatch,128,1.6,Petrol,yes,2008,Golf V,hosseima,31427,Automatic,First
+139,Renault,vagon,112,1.5,Diesel,yes,2006,Kangoo,dakhla,82203,Manual,First
+140,Mercedes-Benz,van,217,3.7,Gas,yes,2005,Viano,Casablanca,92000,Manual,Second
+141,Mercedes-Benz,other,230,2.8,Petrol,yes,1980,E-Class,rabat,115000,Manual,Second
+142,Mercedes-Benz,other,82,1.8,Petrol,yes,2004,SLK 200,sefrou,109000,Automatic,First
+143,Renault,van,194,1.9,Diesel,yes,2000,Kangoo,tanger,25845,Manual,First
+144,Mercedes-Benz,sedan,400,2.0,Gas,yes,1998,E-Class,mekness,31250,Manual,First
+145,Toyota,sedan,156,1.8,Petrol,yes,2008,Avensis,rabat,54211,Manual,First
+146,Mitsubishi,sedan,158,,Other,yes,2007,Lancer,Casablanca,25000,Manual,First
+147,BMW,crossover,80,3.0,Diesel,yes,2013,X5 M,tanger,60138,Manual,First
+148,Toyota,sedan,135,2.4,Petrol,yes,2006,Camry,rabat,69000,Manual,First
+149,Toyota,sedan,151,1.6,Gas,yes,2007,Corolla,Casablanca,62500,Automatic,Second
+150,Toyota,hatch,164,1.4,Diesel,yes,2012,Auris,dakhla,64000,Manual,First
+151,BMW,sedan,230,6.0,Petrol,yes,2008,760,Casablanca,11000,Manual,First
+152,BMW,sedan,180,2.0,Petrol,yes,2002,318,sefrou,38000,Automatic,First
+153,Mercedes-Benz,sedan,38,2.2,Diesel,yes,2014,CLA 220,rabat,48823,Automatic,First
+154,Volkswagen,van,188,2.5,Diesel,yes,2008,Multivan,mekness,75000,Manual,Second
+155,Mitsubishi,sedan,139,1.5,Other,yes,2012,Lancer X,agadir,55000,Manual,First
+156,Renault,vagon,78,1.5,Diesel,yes,2014,Kangoo,rabat,65000,Manual,Second
+157,BMW,sedan,241,2.8,Gas,yes,1995,328,sefrou,63714,Manual,First
+158,Renault,vagon,186,1.5,Diesel,yes,2004,Megane,mekness,54257,Manual,First
+159,Audi,other,170,3.0,Diesel,yes,2010,Q7,oujda,69000,Manual,First
+160,Volkswagen,sedan,60,1.8,Petrol,yes,2014,Passat B7,hosseima,33550,Automatic,First
+161,Mitsubishi,sedan,127,1.6,Petrol,yes,2006,Lancer,rabat,55000,Manual,First
+162,Mitsubishi,hatch,367,1.6,Gas,yes,1997,Carisma,oujda,100000,Manual,Second
+163,Volkswagen,crossover,137,2.5,Diesel,no,2004,Touareg,oujda,42021,Manual,First
+164,Mercedes-Benz,sedan,390,2.3,Gas,yes,1985,E-Class,rabat,4500,Automatic,First
+165,Mercedes-Benz,van,259,3.0,Diesel,yes,2007,Vito,rabat,95000,Manual,First
+166,Volkswagen,crossover,155,2.5,Diesel,yes,2008,Touareg,agadir,22000,Automatic,First
+167,Toyota,crossover,51,3.0,Diesel,yes,2013,Land Cruiser Prado,hosseima,59751,Manual,First
+168,Volkswagen,other,201,1.9,Diesel,yes,2007,T5 (Transporter),sefrou,49000,Manual,First
+169,Toyota,crossover,0,4.5,Diesel,yes,2016,Land Cruiser 200,Casablanca,129000,Automatic,First
+170,Toyota,other,250,1.8,Petrol,yes,2000,Celica,Casablanca,60669,Manual,First
+171,Mercedes-Benz,crossover,1,3.0,Diesel,yes,2016,GLE-Class,oujda,102626,Manual,First
+172,BMW,vagon,213,3.0,Diesel,yes,2007,530,tanger,44731,Manual,Second
+173,Toyota,crossover,126,4.7,Petrol,yes,2008,Land Cruiser 200,Casablanca,41000,Manual,First
+174,Mercedes-Benz,other,100,5.5,Petrol,yes,2007,CL 500,oujda,85388,Manual,First
+175,BMW,other,64,4.4,Petrol,yes,2012,M6,rabat,120300,Automatic,Second
+176,BMW,vagon,112,3.0,Petrol,yes,2011,X1,oujda,46000,Automatic,First
+177,Audi,crossover,44,3.0,Diesel,yes,2014,Q7,mekness,60000,Automatic,Second
+178,Mitsubishi,sedan,119,,Petrol,yes,2007,Lancer,rabat,30000,Manual,First
+179,Audi,sedan,407,2.8,Gas,no,1999,A6,oujda,92450,Manual,First
+180,Toyota,sedan,86,3.5,Petrol,yes,2013,Camry,tanger,67771,Manual,First
+181,Volkswagen,van,53,2.0,Diesel,yes,2013,Multivan,sefrou,26966,Manual,First
+182,Volkswagen,crossover,132,2.0,Diesel,yes,2011,Amarok,oujda,69000,Automatic,First
+183,Audi,vagon,421,2.5,Diesel,yes,1996,A6,marrakech,58410,Automatic,First
+184,Mercedes-Benz,sedan,134,3.0,Diesel,yes,2010,S 350,mekness,67668,Manual,First
+185,Volkswagen,vagon,160,1.9,Diesel,yes,2003,Passat B5,hosseima,47566,Automatic,First
+186,Mercedes-Benz,van,238,2.2,Diesel,yes,2008,Vito,dakhla,59000,Manual,First
+187,Toyota,crossover,2,4.6,Petrol,yes,2016,Land Cruiser 200,hosseima,49386,Manual,First
+188,BMW,sedan,360,2.5,Diesel,no,1996,525,agadir,31000,Manual,First
+189,BMW,sedan,200,1.8,Petrol,yes,2004,318,agadir,21002,Manual,First
+190,Audi,sedan,234,2.5,Other,no,2000,A6,Casablanca,10003,Automatic,First
+191,Audi,vagon,189,2.5,Diesel,yes,2003,A6,marrakech,70436,Manual,First
+192,Volkswagen,sedan,192,2.5,Diesel,yes,2007,Multivan,Casablanca,95000,Manual,Second
+193,Volkswagen,other,184,3.6,Petrol,yes,2008,Passat B6,Casablanca,67000,Automatic,First
+194,Mercedes-Benz,van,55,3.0,Diesel,yes,2011,Viano,Casablanca,32006,Manual,First
+195,Volkswagen,vagon,280,1.9,Diesel,yes,1996,Golf III,agadir,48002,Manual,Second
+196,BMW,sedan,315,2.5,Diesel,no,1998,525,oujda,90764,Manual,First
+197,BMW,other,160,3.0,Petrol,yes,2011,528,Casablanca,15000,Manual,First
+198,Mercedes-Benz,sedan,215,4.3,Petrol,no,2001,CLK 430,Casablanca,57022,Automatic,First
+199,Mercedes-Benz,crossover,205,2.7,Diesel,yes,2005,ML 270,tanger,48214,Automatic,First
+200,Toyota,sedan,43,1.3,Petrol,yes,2014,Corolla,marrakech,33800,Manual,Second
+201,Volkswagen,van,149,1.6,Diesel,yes,2013,Caddy,rabat,26000,Manual,First
+202,Audi,sedan,0,1.4,Petrol,yes,2016,Q3,dakhla,96000,Manual,First
+203,Toyota,crossover,195,4.0,Gas,yes,2003,Land Cruiser Prado,oujda,87591,Manual,First
+204,Mitsubishi,sedan,190,1.6,Gas,yes,2007,Lancer,Casablanca,27628,Manual,First
+205,BMW,crossover,90,3.0,Diesel,yes,2013,X5 M,tetouan,32576,Manual,First
+206,Toyota,crossover,130,5.7,Gas,yes,2009,Land Cruiser 200,tetouan,46000,Manual,First
+207,Mitsubishi,sedan,67,1.5,Petrol,yes,2009,Lancer X,tanger,31645,Automatic,First
+208,BMW,sedan,16,3.0,Diesel,yes,2014,730,tetouan,33280,Manual,First
+209,Volkswagen,hatch,238,1.6,Petrol,yes,1994,Golf III,tetouan,42086,Manual,First
+210,Mitsubishi,sedan,142,1.6,Gas,yes,2005,Lancer,tetouan,39273,Automatic,First
+211,Volkswagen,van,260,2.5,Diesel,yes,2008,T5 (Transporter) ,tanger,53702,Manual,First
+212,Audi,vagon,199,2.7,Petrol,yes,2003,A6 Allroad,marrakech,65000,Manual,First
+213,Volkswagen,hatch,60,1.4,Petrol,yes,2010,Polo,mekness,62334,Manual,First
+214,Mercedes-Benz,sedan,135,5.5,Petrol,yes,2008,S 550,tetouan,66618,Automatic,First
+215,Mercedes-Benz,van,122,3.0,Diesel,yes,2012,Vito,rabat,54000,Manual,First
+216,Mercedes-Benz,vagon,400,2.2,Diesel,no,2002,C-Class,rabat,94000,Automatic,Second
+217,Audi,vagon,181,3.0,Petrol,yes,2009,A6 Allroad,mekness,8471,Manual,First
+218,Audi,vagon,40,3.0,Diesel,yes,2010,Q7,oujda,56000,Automatic,First
+219,Mitsubishi,crossover,100,3.2,Diesel,yes,2011,Pajero Wagon,tanger,55137,Manual,First
+220,Toyota,hatch,79,1.6,Gas,yes,2012,Auris,Casablanca,51000,Manual,First
+221,Renault,crossover,0,1.5,Diesel,yes,2016,Captur,dakhla,12500,Manual,First
+222,Mercedes-Benz,sedan,199,,Petrol,yes,2000,E-Class,Casablanca,11000,Manual,First
+223,Mitsubishi,crossover,107,3.0,Gas,yes,2008,Pajero Wagon,agadir,63003,Manual,First
+224,BMW,sedan,438,2.0,Gas,yes,1997,320,dakhla,86999,Manual,First
+225,Mercedes-Benz,sedan,270,2.7,Diesel,yes,2001,E-Class,sefrou,79271,Automatic,First
+226,Volkswagen,van,246,2.5,Diesel,yes,2006,T5 (Transporter),tetouan,34000,Manual,First
+227,Volkswagen,vagon,229,2.0,Diesel,yes,2009,Passat B6,Casablanca,58002,Manual,First
+228,Renault,other,209,1.5,Diesel,yes,2005,Scenic,tetouan,73314,Manual,First
+229,Audi,crossover,185,4.2,Petrol,yes,2006,Q7,dakhla,105000,Manual,Second
+230,BMW,crossover,0,2.0,Diesel,yes,2016,X1,hosseima,77395,Automatic,First
+231,Volkswagen,sedan,177,,Petrol,yes,2008,Passat B6,tanger,92708,Manual,First
+232,Audi,crossover,95,3.0,Diesel,yes,2014,Q7,Casablanca,61000,Automatic,Second
+233,Mercedes-Benz,van,285,2.2,Diesel,yes,2001,Vito,rabat,41500,Manual,Second
+234,Audi,sedan,200,1.8,Petrol,yes,2003,A4,Casablanca,41988,Automatic,First
+235,Mercedes-Benz,van,242,2.2,Diesel,yes,2008,Vito,tanger,14821,Manual,First
+236,Volkswagen,other,217,1.9,Diesel,yes,2005,Passat B5,mekness,65000,Manual,First
+237,BMW,sedan,240,2.0,Diesel,yes,2001,320,sefrou,27000,Automatic,First
+238,Mercedes-Benz,other,168,2.3,Petrol,yes,2001,CLK 230,tanger,36458,Manual,First
+239,Toyota,hatch,28,1.6,Petrol,yes,2014,Auris,tanger,77325,Manual,First
+240,Mitsubishi,crossover,235,3.2,Diesel,no,2001,Pajero,sefrou,100000,Manual,First
+241,Volkswagen,sedan,0,2.0,Diesel,yes,2014,Passat CC,dakhla,140000,Manual,First
+242,Renault,vagon,190,1.5,Diesel,yes,2009,Megane,tetouan,43206,Manual,First
+243,BMW,vagon,5,0.65,Other,yes,2015,I3,mekness,62000,Manual,First
+244,Mercedes-Benz,van,197,2.2,Diesel,yes,2002,Vito,oujda,67758,Manual,First
+245,Volkswagen,crossover,155,2.0,Diesel,yes,2011,Tiguan,tanger,34063,Manual,First
+246,Volkswagen,vagon,287,1.9,Diesel,yes,2002,Sharan,hosseima,36152,Automatic,First
+247,Audi,crossover,240,4.2,Petrol,yes,2007,Q7,sefrou,87000,Manual,First
+248,Mercedes-Benz,van,400,2.2,Diesel,yes,1999,Vito,mekness,103814,Manual,Second
+249,Volkswagen,sedan,123,1.8,Petrol,yes,2010,Passat B6,sefrou,34620,Manual,Second
+250,Volkswagen,van,63,2.0,Diesel,yes,2013,Multivan,oujda,88000,Automatic,First
+251,Mitsubishi,sedan,121,1.6,Gas,yes,2008,Lancer,Casablanca,10770,Manual,First
+252,Volkswagen,sedan,66,1.6,Petrol,yes,2011,Polo,Casablanca,32500,Automatic,First
+253,Volkswagen,van,282,2.5,Diesel,yes,2006,T5 (Transporter),dakhla,101000,Manual,Second
+254,Mercedes-Benz,crossover,168,3.2,Diesel,yes,2009,GL 320,tanger,46913,Automatic,First
+255,Mercedes-Benz,van,126,2.2,Diesel,yes,2013,Vito,dakhla,77084,Manual,First
+256,Mercedes-Benz,sedan,60,3.0,Diesel,yes,2012,CLS 350,tanger,14656,Manual,First
+257,BMW,vagon,312,2.5,Diesel,no,1999,525,rabat,23000,Manual,First
+258,BMW,sedan,150,2.0,Gas,yes,2003,320,sefrou,99000,Manual,Second
+259,Toyota,hatch,98,1.3,Other,yes,2006,Yaris,Casablanca,53000,Automatic,First
+260,Renault,van,123,1.9,Diesel,yes,2004,Kangoo,hosseima,24237,Manual,First
+261,Renault,crossover,1,1.5,Diesel,yes,2016,Duster,oujda,55547,Automatic,First
+262,BMW,crossover,0,3.0,Diesel,yes,2016,X5,sefrou,49000,Manual,First
+263,Volkswagen,sedan,102,1.8,Petrol,yes,2011,Passat CC,Casablanca,72000,Manual,Third
+264,Mitsubishi,crossover,149,3.0,Gas,yes,2008,Pajero Wagon,rabat,49112,Automatic,Second
+265,Mitsubishi,crossover,140,2.4,Petrol,yes,2007,Outlander XL,mekness,72000,Manual,First
+266,Renault,vagon,150,1.5,Diesel,yes,2011,Kangoo,rabat,69002,Automatic,First
+267,Volkswagen,other,200,2.0,Petrol,yes,2011,Scirocco,marrakech,132000,Manual,First
+268,Volkswagen,vagon,200,1.9,Diesel,no,1999,Passat B5,dakhla,4131,Automatic,First
+269,Volkswagen,sedan,178,2.0,Diesel,no,2013,Passat B7,rabat,71000,Manual,First
+270,Renault,hatch,77,1.8,Other,yes,1994,Laguna,dakhla,63000,Manual,First
+271,Volkswagen,other,51,1.6,Petrol,yes,2013,Polo,hosseima,46007,Manual,First
+272,BMW,sedan,330,3.0,Diesel,no,2000,530,tanger,63770,Manual,First
+273,Renault,van,127,1.5,Diesel,yes,2011,Kangoo,rabat,47000,Manual,First
+274,Audi,sedan,137,,Petrol,yes,2009,A6,oujda,67263,Manual,First
+275,Renault,sedan,180,1.4,Gas,yes,2006,Logan,hosseima,33855,Manual,First
+276,Renault,van,102,1.5,Diesel,yes,2012,Kangoo,tetouan,29000,Manual,First
+277,Volkswagen,van,400,2.4,Diesel,yes,1999,T4 (Transporter),tanger,50243,Manual,First
+278,Mercedes-Benz,crossover,1,2.2,Diesel,yes,2016,GLE-Class,hosseima,105072,Manual,First
+279,Mercedes-Benz,crossover,85,3.0,Diesel,yes,2013,ML 350,tanger,80073,Manual,First
+280,Renault,crossover,68,1.5,Diesel,yes,2011,Duster,hosseima,31841,Manual,First
+281,Mercedes-Benz,crossover,1,2.99,Diesel,yes,2016,GLS 350,rabat,7000,Automatic,First
+282,Mercedes-Benz,other,269,2.2,Diesel,yes,2006,Sprinter 313,oujda,90413,Manual,First
+283,Volkswagen,crossover,50,2.0,Diesel,yes,2014,Tiguan,Casablanca,70000,Automatic,First
+284,Renault,sedan,230,1.5,Diesel,yes,2007,Kangoo,Casablanca,49000,Automatic,First
+285,Volkswagen,hatch,140,1.4,Petrol,no,2002,Golf IV,Casablanca,150000,Manual,First
+286,Volkswagen,other,296,1.9,Diesel,no,2000,Golf IV,dakhla,50000,Manual,First
+287,Volkswagen,other,314,2.4,Diesel,yes,1993,T4 (Transporter),tetouan,43002,Manual,First
+288,Toyota,sedan,1,1.8,Petrol,yes,2008,Avensis,mekness,72000,Manual,First
+289,Audi,other,60,2.0,Petrol,yes,2011,A5,hosseima,80759,Manual,Third
+290,BMW,sedan,74,2.0,Diesel,yes,2014,520,mekness,30000,Manual,First
+291,BMW,sedan,100,1.8,Petrol,yes,1992,318,hosseima,47357,Automatic,First
+292,Toyota,sedan,58,2.5,Petrol,yes,2015,Camry,mekness,58000,Manual,First
+293,Toyota,crossover,40,2.0,Petrol,yes,2014,Rav 4,Casablanca,23000,Automatic,First
+294,Volkswagen,hatch,300,1.9,Diesel,yes,1999,Golf IV,oujda,71000,Manual,First
+295,Toyota,crossover,270,4.2,Diesel,yes,1994,Land Cruiser 80,sefrou,70000,Manual,Third
+296,Mercedes-Benz,sedan,160,3.0,Diesel,yes,1996,S 140,agadir,52000,Manual,First
+297,BMW,sedan,270,3.0,Diesel,yes,2000,530,Casablanca,54000,Manual,Second
+298,BMW,vagon,221,2.0,Diesel,yes,2008,520,oujda,65000,Manual,First
+299,Renault,van,181,1.9,Diesel,yes,2006,Trafic,tetouan,32986,Manual,First
+300,Mercedes-Benz,sedan,358,5.0,Gas,yes,2003,S 500,sefrou,46000,Manual,First
+301,Volkswagen,van,170,1.6,Diesel,yes,2013,Caddy,mekness,51000,Automatic,First
+302,Volkswagen,van,121,2.0,Diesel,yes,2014,T5 (Transporter) ,sefrou,79000,Manual,First
+303,BMW,other,162,2.2,Petrol,yes,2002,320,mekness,59196,Manual,Second
+304,Renault,van,218,1.5,Diesel,yes,2006,Kangoo,oujda,51000,Automatic,First
+305,Volkswagen,van,148,1.6,Diesel,yes,2011,Caddy,marrakech,43000,Automatic,Second
+306,Toyota,sedan,176,3.0,Petrol,yes,2002,Camry,Casablanca,31978,Manual,First
+307,BMW,sedan,288,4.4,Gas,yes,2002,745,tetouan,34994,Manual,First
+308,BMW,sedan,145,2.0,Diesel,yes,2007,320,oujda,56000,Automatic,First
+309,BMW,crossover,152,3.0,Diesel,yes,2008,X5,tetouan,45617,Manual,First
+310,Toyota,sedan,130,2.3,Gas,yes,2006,Camry,sefrou,100073,Manual,Second
+311,BMW,sedan,218,2.0,Petrol,yes,2006,320,marrakech,71231,Manual,Second
+312,Volkswagen,van,237,2.5,Diesel,yes,2005,T5 (Transporter),agadir,72000,Manual,Second
+313,Audi,sedan,320,2.8,Petrol,yes,1992,100,mekness,76000,Manual,First
+314,Mercedes-Benz,van,250,2.2,Diesel,yes,2005,Vito,oujda,69000,Manual,First
+315,Volkswagen,van,230,2.0,Diesel,yes,2011,T5 (Transporter) ,oujda,97236,Manual,First
+316,BMW,sedan,370,4.0,Petrol,yes,1993,540,dakhla,23000,Manual,First
+317,Toyota,crossover,63,2.0,Petrol,yes,2013,Rav 4,hosseima,38426,Manual,First
+318,Audi,sedan,360,1.6,Other,no,1996,A4,dakhla,38000,Manual,First
+319,Mercedes-Benz,van,322,3.0,Diesel,yes,2007,Sprinter 318,tanger,19654,Automatic,First
+320,Mercedes-Benz,sedan,450,4.2,Gas,yes,1997,S 420,Casablanca,35000,Automatic,Second
+321,BMW,sedan,205,1.8,Petrol,yes,2001,316,Casablanca,48000,Automatic,First
+322,Mercedes-Benz,sedan,382,2.0,Petrol,yes,1994,E-Class,oujda,62000,Manual,First
+323,Volkswagen,hatch,127,1.39,Petrol,yes,2007,Polo,hosseima,13460,Manual,First
+324,Mercedes-Benz,van,217,2.2,Diesel,yes,2012,Vito,tanger,24735,Manual,Second
+325,Mercedes-Benz,sedan,99,1.8,Petrol,yes,2008,C-Class,tetouan,45000,Manual,First
+326,Volkswagen,van,185,1.9,Diesel,yes,2009,Caddy,mekness,63000,Manual,First
+327,Mercedes-Benz,sedan,300,2.7,Diesel,yes,2003,E-Class,rabat,27000,Manual,First
+328,Mercedes-Benz,sedan,288,3.2,Gas,yes,2001,E-Class,tetouan,35000,Manual,First
+329,Toyota,hatch,50,2.0,Petrol,yes,1991,Carina,mekness,92000,Manual,Second
+330,BMW,sedan,38,2.0,Petrol,yes,2013,320,hosseima,52400,Manual,First
+331,Renault,van,198,1.5,Diesel,yes,2012,Grand Scenic,Casablanca,57000,Automatic,First
+332,Mitsubishi,crossover,170,3.8,Gas,yes,2008,Pajero Wagon,dakhla,200000,Manual,First
+333,Renault,crossover,83,2.0,Diesel,yes,2012,Koleos,oujda,95000,Automatic,Second
+334,Mercedes-Benz,sedan,162,5.5,Petrol,yes,2007,S 500,rabat,80000,Manual,First
+335,BMW,sedan,170,2.2,Petrol,yes,2001,520,mekness,57000,Manual,First
+336,BMW,other,400,2.0,Petrol,yes,1998,520,hosseima,43775,Manual,First
+337,Volkswagen,van,181,1.6,Diesel,yes,2011,Caddy,sefrou,70000,Manual,Second
+338,BMW,crossover,19,2.5,Diesel,yes,2015,X5,tanger,41089,Automatic,First
+339,Mitsubishi,crossover,89,3.8,Gas,yes,2008,Pajero Wagon,rabat,36431,Manual,First
+340,Volkswagen,van,275,2.5,Diesel,yes,2008,T5 (Transporter),oujda,20000,Manual,First
+341,Renault,vagon,200,1.46,Diesel,yes,2008,Grand Scenic,dakhla,30292,Manual,First
+342,Volkswagen,other,123,1.8,Petrol,yes,2010,Passat CC,marrakech,64798,Manual,First
+343,Toyota,vagon,98,2.0,Gas,yes,2008,Rav 4,tetouan,45296,Manual,First
+344,Toyota,vagon,89,1.8,Petrol,yes,2012,Avensis,marrakech,8900,Automatic,First
+345,Renault,van,156,1.5,Diesel,yes,2012,Kangoo,tetouan,37000,Manual,First
+346,Audi,crossover,45,2.0,Diesel,yes,2014,Q5,Casablanca,32000,Automatic,First
+347,BMW,sedan,280,2.0,Gas,yes,2000,320,hosseima,14857,Automatic,First
+348,Mercedes-Benz,crossover,127,5.5,Petrol,yes,2010,GL 550,tanger,44748,Manual,Second
+349,Renault,van,70,1.5,Diesel,yes,2014,Kangoo,sefrou,78000,Manual,First
+350,Mitsubishi,crossover,220,2.4,Gas,yes,2004,Outlander,dakhla,80000,Manual,First
+351,Volkswagen,vagon,1,1.9,Diesel,no,2001,Passat B5,marrakech,45979,Automatic,Second
+352,Mercedes-Benz,van,263,2.2,Diesel,yes,2005,Vito,sefrou,72000,Manual,Third
+353,Mercedes-Benz,sedan,270,3.2,Diesel,no,2007,S 320,marrakech,74000,Automatic,Second
+354,Volkswagen,other,178,2.5,Diesel,yes,2007,T5 (Transporter),hosseima,44202,Manual,First
+355,Volkswagen,van,16,2.0,Diesel,yes,2005,Caddy,sefrou,124000,Manual,First
+356,Mercedes-Benz,van,147,2.2,Diesel,yes,2013,Vito,tetouan,69000,Manual,First
+357,Toyota,sedan,185,1.8,Petrol,yes,2007,Avensis,dakhla,95000,Manual,Second
+358,Volkswagen,van,200,2.5,Diesel,yes,2003,T4 (Transporter),sefrou,97000,Manual,First
+359,Mercedes-Benz,other,190,2.2,Diesel,yes,1999,Vito,tanger,13689,Automatic,First
+360,BMW,sedan,267,2.0,Diesel,yes,2002,320,mekness,110000,Automatic,First
+361,Renault,van,198,1.5,Diesel,yes,2004,Kangoo,agadir,81000,Manual,First
+362,BMW,sedan,300,2.8,Petrol,yes,1999,528,rabat,97000,Manual,First
+363,Toyota,sedan,110,1.6,Petrol,yes,2011,Corolla,hosseima,25040,Manual,First
+364,Mercedes-Benz,sedan,260,3.0,Diesel,yes,1997,S 300,oujda,90000,Manual,First
+365,BMW,sedan,280,1.6,Petrol,no,2000,316,tetouan,98000,Manual,First
+366,BMW,crossover,80,3.0,Petrol,yes,2012,X6,Casablanca,52001,Automatic,First
+367,Toyota,sedan,147,2.4,Gas,yes,2006,Camry,dakhla,83816,Manual,Second
+368,Audi,sedan,150,1.8,Petrol,yes,1985,80,tanger,30933,Manual,First
+369,BMW,other,80,3.0,Petrol,yes,2002,330,dakhla,77000,Manual,First
+370,Renault,crossover,20,1.5,Diesel,yes,2016,Duster,tanger,18521,Manual,First
+371,Volkswagen,van,176,2.0,Diesel,yes,2012,T5 (Transporter) ,tanger,47016,Manual,First
+372,Volkswagen,van,163,2.0,Diesel,yes,2010,Multivan,oujda,113562,Manual,First
+373,BMW,crossover,16,,Other,yes,2016,X5 M,oujda,48200,Manual,First
+374,Mercedes-Benz,van,173,2.2,Diesel,yes,2011,Vito,Casablanca,16100,Automatic,First
+375,Renault,van,183,1.9,Diesel,yes,2006,Trafic,dakhla,90000,Manual,Second
+376,Mercedes-Benz,sedan,300,4.3,Gas,yes,2000,E-Class,rabat,225000,Manual,Second
+377,BMW,crossover,0,2.0,Diesel,yes,2016,X5,rabat,38000,Manual,First
+378,Mercedes-Benz,sedan,222,5.5,Petrol,yes,2005,S 550,sefrou,104000,Manual,Third
+379,Audi,vagon,330,1.9,Diesel,no,1996,A4,mekness,90000,Manual,First
+380,Toyota,crossover,34,2.0,Petrol,yes,2012,Rav 4,dakhla,68163,Automatic,First
+381,Mercedes-Benz,sedan,282,3.2,Gas,yes,1993,E-Class,sefrou,72000,Automatic,Third
+382,Mercedes-Benz,sedan,300,3.2,Diesel,no,2004,E-Class,sefrou,85000,Automatic,Second
+383,BMW,sedan,60,,Petrol,yes,2012,328,oujda,33000,Manual,First
+384,Audi,sedan,260,1.8,Gas,yes,2003,A4,rabat,220000,Automatic,Second
+385,Toyota,crossover,119,,Gas,yes,2008,Rav 4,sefrou,173000,Manual,First
+386,Audi,sedan,177,1.6,Petrol,no,1996,A4,marrakech,75000,Automatic,First
+387,Volkswagen,crossover,92,3.0,Diesel,yes,2012,Touareg,Casablanca,47000,Manual,First
+388,Volkswagen,other,145,3.2,Petrol,yes,2007,Passat B6,oujda,11200,Automatic,First
+389,Renault,van,200,1.9,Diesel,yes,2005,Trafic,oujda,85000,Automatic,First
+390,Toyota,crossover,112,4.5,Gas,yes,2007,Land Cruiser 100,dakhla,87459,Manual,First
+391,Renault,sedan,100,1.7,Petrol,yes,1986,21,hosseima,40347,Manual,First
+392,Volkswagen,van,380,2.5,Diesel,yes,2000,T4 (Transporter),agadir,55005,Manual,First
+393,Toyota,sedan,0,2.5,Petrol,yes,2016,Camry,mekness,41000,Manual,First
+394,BMW,other,0,3.0,Petrol,yes,2016,640,oujda,26000,Automatic,First
+395,Audi,crossover,75,3.0,Diesel,yes,2013,Q7,mekness,22000,Automatic,First
+396,BMW,sedan,17,2.0,Petrol,yes,2013,520,tetouan,15000,Manual,First
+397,Mercedes-Benz,crossover,1,3.0,Diesel,yes,2016,GLS 350,dakhla,88000,Manual,Second
+398,Toyota,hatch,60,1.6,Petrol,yes,2013,Auris,tetouan,45000,Manual,First
+399,Mitsubishi,crossover,147,2.5,Diesel,yes,2008,Pajero Sport,Casablanca,40000,Automatic,Second
+400,Audi,other,370,1.8,Petrol,yes,1997,A6,hosseima,32345,Automatic,First
+401,Mercedes-Benz,crossover,16,3.0,Diesel,yes,2013,ML 350,rabat,27809,Automatic,First
+402,Mitsubishi,crossover,120,2.5,Diesel,yes,2007,Pajero Sport,Casablanca,67000,Automatic,Second
+403,Audi,sedan,190,3.0,Petrol,yes,2007,A6,hosseima,11287,Automatic,First
+404,BMW,sedan,100,2.0,Petrol,yes,2012,520,tanger,37109,Manual,First
+405,Audi,sedan,259,3.0,Diesel,no,2005,A6,sefrou,39000,Manual,First
+406,Mercedes-Benz,van,30,2.2,Diesel,yes,2014,Viano,hosseima,79940,Manual,First
+407,Volkswagen,vagon,185,1.4,Petrol,yes,2011,Golf VII,oujda,83969,Manual,First
+408,Audi,sedan,270,4.2,Petrol,yes,2000,S8,marrakech,66000,Manual,First
+409,Mercedes-Benz,other,60,1.8,Petrol,yes,2013,C-Class,Casablanca,70000,Manual,First
+410,Mercedes-Benz,sedan,276,2.7,Diesel,no,2001,E-Class,hosseima,54317,Manual,First
+411,Volkswagen,vagon,235,1.4,Petrol,yes,2000,Golf IV,Casablanca,31000,Manual,First
+412,Volkswagen,sedan,75,1.6,Petrol,yes,2012,Polo,rabat,67200,Manual,First
+413,Toyota,sedan,142,1.8,Petrol,yes,2008,Avensis,tanger,57932,Manual,First
+414,Mercedes-Benz,vagon,178,3.0,Diesel,yes,2006,E-Class,agadir,74002,Automatic,First
+415,Volkswagen,van,380,2.4,Diesel,yes,1999,T4 (Transporter) ,oujda,63181,Manual,First
+416,Volkswagen,vagon,132,1.4,Petrol,yes,2011,Golf VI,rabat,47300,Manual,First
+417,Toyota,crossover,328,4.2,Diesel,yes,1993,Land Cruiser 80,tanger,42225,Manual,First
+418,Toyota,crossover,11,4.0,Petrol,yes,2013,Tacoma,sefrou,25000,Automatic,First
+419,Mercedes-Benz,other,168,3.2,Petrol,yes,2003,CLK 320,hosseima,10393,Manual,First
+420,Toyota,sedan,15,2.5,Petrol,yes,2015,Camry,mekness,79000,Automatic,First
+421,Volkswagen,sedan,260,3.2,Petrol,yes,2006,Passat B6,hosseima,62242,Automatic,First
+422,Toyota,sedan,129,3.5,Other,yes,2008,Camry,agadir,58000,Manual,Second
+423,Mitsubishi,sedan,300,2.0,Diesel,yes,1996,Galant,sefrou,105000,Automatic,Second
+424,Audi,vagon,250,2.5,Diesel,no,1998,A6,marrakech,78500,Automatic,First
+425,Mitsubishi,crossover,135,3.0,Petrol,yes,2009,Outlander XL,mekness,40000,Manual,First
+426,Mitsubishi,sedan,133,1.6,Petrol,yes,2007,Lancer,sefrou,190000,Manual,First
+427,BMW,sedan,135,3.0,Gas,yes,2004,530,oujda,68782,Automatic,First
+428,Mercedes-Benz,van,462,2.2,Diesel,no,2001,Sprinter,agadir,40000,Manual,First
+429,Mercedes-Benz,sedan,230,2.7,Diesel,no,2005,E-Class,mekness,77445,Manual,First
+430,Audi,sedan,205,1.8,Petrol,yes,2003,A4,dakhla,36381,Manual,First
+431,Toyota,hatch,30,1.6,Petrol,yes,2014,Auris,mekness,70000,Automatic,First
+432,BMW,sedan,230,4.0,Gas,yes,1994,540,marrakech,56000,Automatic,First
+433,BMW,crossover,162,4.8,Petrol,yes,2007,X5,oujda,121812,Automatic,First
+434,BMW,vagon,377,2.0,Gas,yes,1998,520,rabat,142000,Manual,Second
+435,Volkswagen,hatch,22,1.2,Petrol,yes,2014,Golf VII,rabat,137008,Automatic,First
+436,Audi,crossover,90,3.0,Diesel,yes,2013,Q7,tanger,22060,Automatic,First
+437,Toyota,sedan,205,2.4,Gas,yes,2006,Camry,mekness,43900,Manual,First
+438,Volkswagen,crossover,60,3.0,Diesel,yes,2013,Touareg,tanger,95649,Automatic,First
+439,BMW,crossover,180,4.8,Gas,yes,2008,X5,mekness,37857,Manual,First
+440,BMW,vagon,360,2.0,Petrol,yes,1993,520,Casablanca,47000,Manual,First
+441,Volkswagen,sedan,106,1.6,Petrol,yes,2011,Polo,Casablanca,7000,Manual,First
+442,Renault,other,220,1.5,Diesel,yes,2004,Kangoo,dakhla,70000,Manual,First
+443,Volkswagen,sedan,45,2.0,Petrol,yes,2013,Jetta,tetouan,75648,Manual,First
+444,Mercedes-Benz,van,162,1.8,Diesel,yes,2012,B 180,oujda,37000,Manual,First
+445,Volkswagen,sedan,210,5.0,Diesel,yes,2004,Phaeton,hosseima,54316,Manual,Second
+446,Volkswagen,sedan,144,1.6,Gas,yes,2009,Jetta,dakhla,130000,Manual,Second
+447,Volkswagen,van,220,2.5,Diesel,yes,2003,T4 (Transporter),agadir,85000,Manual,First
+448,BMW,crossover,38,3.0,Petrol,yes,2009,X6,Casablanca,62714,Automatic,First
+449,Mercedes-Benz,other,260,2.2,Diesel,yes,2000,Vito,agadir,90000,Automatic,First
+450,Renault,van,265,2.0,Diesel,yes,2007,Trafic,tetouan,32000,Manual,First
+451,Renault,van,222,1.5,Diesel,yes,2009,Kangoo,mekness,52000,Manual,First
+452,Mercedes-Benz,other,77,1.8,Petrol,yes,2011,C-Class,tetouan,44000,Manual,First
+453,BMW,sedan,148,3.0,Petrol,yes,2011,535,rabat,55000,Manual,First
+454,Mitsubishi,sedan,156,1.8,Petrol,yes,1989,Galant,tetouan,60000,Manual,First
+455,Volkswagen,van,290,1.9,Diesel,yes,2004,T5 (Transporter) ,marrakech,84000,Automatic,First
+456,Toyota,crossover,0,4.5,Diesel,yes,2016,Land Cruiser 200,tetouan,65000,Manual,Second
+457,Mercedes-Benz,sedan,20,3.0,Diesel,yes,2015,S 350,oujda,67000,Manual,First
+458,Mercedes-Benz,sedan,204,3.5,Petrol,yes,2008,S 350,marrakech,53900,Automatic,First
+459,Audi,sedan,186,2.5,Diesel,yes,1996,A6,Casablanca,22345,Manual,First
+460,Mercedes-Benz,crossover,143,3.2,Diesel,yes,2007,ML 320,agadir,61000,Manual,First
+461,Renault,van,122,2.0,Diesel,yes,2013,Trafic,hosseima,50624,Manual,First
+462,BMW,sedan,4,2.8,Gas,yes,1995,528,hosseima,56628,Manual,First
+463,Toyota,sedan,35,2.2,Gas,yes,1999,Camry,mekness,150000,Manual,First
+464,Renault,van,135,1.5,Diesel,yes,2012,Kangoo,mekness,68462,Manual,First
+465,Volkswagen,van,127,1.6,Diesel,yes,2011,Caddy,oujda,83875,Manual,Second
+466,Audi,other,83,2.0,Petrol,yes,2009,A5,Casablanca,83000,Manual,Second
+467,Toyota,hatch,24,1.6,Petrol,yes,2009,Auris,dakhla,53000,Manual,Second
+468,Mercedes-Benz,sedan,500,3.2,Diesel,yes,2000,E-Class,tetouan,40000,Manual,First
+469,Renault,crossover,0,1.5,Diesel,yes,2016,Duster,tetouan,64284,Manual,First
+470,Toyota,crossover,0,4.5,Diesel,yes,2016,Land Cruiser 200,hosseima,56739,Manual,First
+471,Mercedes-Benz,other,75,6.3,Petrol,yes,2009,CL 63 AMG,Casablanca,11000,Automatic,First
+472,Toyota,other,45,4.6,Petrol,yes,2013,Tundra,Casablanca,63141,Manual,Second
+473,Renault,van,125,1.5,Diesel,yes,2012,Kangoo,rabat,41000,Manual,First
+474,Renault,van,210,1.5,Diesel,yes,2005,Kangoo,sefrou,37000,Manual,First
+475,Toyota,sedan,84,2.5,Petrol,yes,2012,Camry,oujda,100000,Automatic,First
+476,Mercedes-Benz,sedan,29,6.0,Petrol,yes,2011,S-Guard,oujda,100000,Manual,Second
+477,Toyota,crossover,115,4.0,Gas,yes,2008,Land Cruiser Prado,mekness,109000,Manual,First
+478,BMW,sedan,350,99.99,Other,yes,1992,520,hosseima,51535,Automatic,First
+479,Toyota,sedan,115,1.6,Petrol,yes,2008,Corolla,Casablanca,14470,Automatic,First
+480,Volkswagen,other,298,,Diesel,yes,2005,T5 (Transporter),tanger,31412,Manual,First
+481,Mitsubishi,crossover,285,2.5,Diesel,yes,1991,Pajero,marrakech,54000,Automatic,First
+482,Audi,vagon,320,2.5,Diesel,no,2002,A6,Casablanca,98798,Manual,First
+483,Renault,van,200,1.5,Diesel,yes,2009,Grand Scenic,mekness,76000,Automatic,First
+484,Mercedes-Benz,crossover,185,3.7,Gas,yes,2005,ML 350,tetouan,45000,Manual,First
+485,Toyota,crossover,77,3.0,Diesel,yes,2012,Land Cruiser Prado,tanger,12153,Automatic,First
+486,Volkswagen,crossover,36,3.0,Diesel,yes,2015,Touareg,mekness,70000,Manual,First
+487,Toyota,crossover,117,3.0,Diesel,yes,2008,Land Cruiser Prado,tanger,34990,Automatic,First
+488,BMW,crossover,242,99.99,Diesel,no,2005,X3,marrakech,60000,Manual,Second
+489,Renault,van,180,2.0,Diesel,yes,2012,Trafic,dakhla,83000,Manual,First
+490,Audi,vagon,249,2.5,Diesel,no,2004,A6,tanger,60805,Manual,First
+491,Toyota,crossover,130,2.0,Petrol,yes,2008,Rav 4,marrakech,73000,Manual,Second
+492,Volkswagen,vagon,115,2.0,Diesel,yes,2011,Caddy,mekness,24347,Manual,First
+493,Renault,vagon,200,2.0,Gas,yes,1987,25,agadir,72000,Manual,Second
+494,Mercedes-Benz,sedan,240,3.2,Other,no,2005,C-Class,oujda,4126,Manual,First
+495,Volkswagen,other,207,1.9,Diesel,yes,2004,Caddy,Casablanca,30180,Manual,First
+496,Renault,van,78,2.0,Diesel,yes,2012,Trafic,mekness,62088,Manual,First
+497,Mercedes-Benz,sedan,29,6.0,Petrol,yes,2011,S 600,sefrou,45000,Automatic,First
+498,Volkswagen,sedan,198,1.6,Petrol,yes,2007,Jetta,marrakech,58483,Automatic,Second
+499,Audi,sedan,250,2.5,Diesel,no,1999,A4,oujda,81000,Automatic,First
+500,Mercedes-Benz,vagon,118,3.0,Diesel,yes,2010,E-Class,rabat,57000,Manual,First
+501,Volkswagen,sedan,300,1.8,Petrol,yes,1996,Vento,tetouan,45000,Manual,Second
+502,Volkswagen,other,48,2.0,Diesel,yes,2012,Eos,dakhla,30292,Manual,First
+503,Mitsubishi,vagon,120,1.3,Petrol,yes,2005,Colt,Casablanca,38000,Manual,Second
+504,Mitsubishi,crossover,149,3.0,Gas,yes,2008,Pajero Wagon,dakhla,54897,Automatic,First
+505,BMW,sedan,155,2.0,Diesel,yes,2012,520,oujda,70600,Manual,First
+506,BMW,vagon,300,2.5,Diesel,no,1997,525,oujda,44345,Manual,First
+507,Mitsubishi,sedan,162,,Petrol,yes,2007,Lancer,dakhla,37000,Manual,First
+508,Toyota,sedan,165,1.8,Petrol,yes,2007,Avensis,rabat,50000,Automatic,First
+509,Volkswagen,sedan,140,2.0,Petrol,yes,2006,Jetta,sefrou,49000,Manual,Second
+510,Renault,sedan,99,2.5,Petrol,yes,2011,Latitude,marrakech,75000,Manual,Second
+511,Volkswagen,van,180,2.5,Diesel,yes,2004,T5 (Transporter) ,marrakech,19235,Automatic,First
+512,Toyota,sedan,168,2.0,Petrol,yes,2004,Avensis,rabat,70000,Manual,First
+513,Mitsubishi,other,120,3.0,Petrol,yes,2008,Pajero Wagon,oujda,74000,Manual,First
+514,BMW,sedan,280,3.0,Diesel,no,1999,730,tanger,59833,Manual,Fourth & Above
+515,Audi,hatch,200,1.6,Petrol,no,1999,A3,mekness,42000,Manual,First
+516,Mercedes-Benz,other,78,3.5,Petrol,yes,2010,E-Class,sefrou,63714,Manual,First
+517,BMW,crossover,1,2.0,Diesel,yes,2016,X5,agadir,41125,Manual,First
+518,Mercedes-Benz,sedan,190,1.8,Gas,yes,2011,E-Class,mekness,60000,Automatic,Second
+519,Audi,hatch,66,1.2,Petrol,yes,2011,A1,mekness,60007,Automatic,First
+520,Volkswagen,other,90,2.0,Diesel,yes,2014,Tiguan,tanger,44487,Manual,First
+521,Mercedes-Benz,other,220,3.2,Petrol,no,2004,CLK 320,rabat,14000,Automatic,First
+522,Toyota,crossover,90,4.5,Diesel,yes,2012,Land Cruiser 200,tanger,64236,Manual,First
+523,Volkswagen,hatch,56,2.0,Diesel,yes,2014,Golf VII,sefrou,140000,Manual,Second
+524,BMW,sedan,325,,Other,no,2005,525,dakhla,59000,Manual,First
+525,Renault,van,187,1.5,Diesel,yes,2010,Kangoo,Casablanca,25984,Manual,First
+526,Toyota,sedan,179,2.4,Petrol,yes,2006,Camry,rabat,55001,Automatic,First
+527,Mercedes-Benz,crossover,130,4.7,Gas,yes,2008,GL 450,tanger,48367,Automatic,First
+528,Mercedes-Benz,sedan,148,2.2,Diesel,yes,2011,E-Class,oujda,157000,Manual,First
+529,BMW,sedan,380,3.0,Gas,yes,1989,530,tanger,39335,Manual,First
+530,Toyota,crossover,260,4.7,Gas,yes,2003,Land Cruiser 100,dakhla,8525,Automatic,Second
+531,BMW,crossover,1,3.0,Diesel,yes,2014,X6,hosseima,35642,Automatic,First
+532,BMW,sedan,297,2.5,Petrol,yes,2000,525,mekness,63000,Manual,First
+533,Mercedes-Benz,van,266,2.2,Diesel,yes,2008,Vito,sefrou,54000,Manual,Third
+534,Toyota,other,421,1.3,Gas,yes,1988,Corolla,Casablanca,39000,Automatic,First
+535,Volkswagen,van,135,2.0,Diesel,yes,2011,Multivan,Casablanca,81000,Automatic,Second
+536,Mercedes-Benz,sedan,231,2.2,Petrol,yes,1994,E-Class,mekness,70000,Manual,First
+537,Renault,hatch,56,1.6,Petrol,yes,2011,Megane,tetouan,40000,Manual,First
+538,Mercedes-Benz,crossover,251,5.0,Gas,yes,2002,ML 500,dakhla,86863,Manual,First
+539,Mitsubishi,crossover,165,3.0,Gas,yes,2007,Pajero Wagon,Casablanca,86000,Manual,First
+540,Mitsubishi,sedan,145,1.6,Petrol,yes,2008,Lancer,oujda,19000,Manual,First
+541,Volkswagen,van,240,1.9,Diesel,yes,2005,Caddy,marrakech,34004,Manual,First
+542,Toyota,sedan,130,2.4,Petrol,yes,2008,Camry,tetouan,70000,Manual,First
+543,BMW,sedan,0,2.0,Petrol,yes,2016,520,marrakech,50000,Automatic,First
+544,Mitsubishi,other,230,2.0,Petrol,yes,2003,Galant,hosseima,39430,Automatic,First
+545,Audi,sedan,180,,Petrol,no,2000,A4,sefrou,62000,Manual,First
+546,Renault,hatch,65,1.5,Diesel,yes,2014,Megane,oujda,76206,Manual,First
+547,Toyota,sedan,107,1.8,Gas,yes,2007,Avensis,oujda,84000,Manual,Second
+548,Mercedes-Benz,other,85,5.5,Petrol,yes,2008,CL 55 AMG,Casablanca,61529,Automatic,First
+549,Volkswagen,van,108,1.6,Diesel,yes,2013,Caddy,tanger,47198,Manual,First
+550,Toyota,hatch,67,1.6,Petrol,yes,2012,Auris,Casablanca,48000,Automatic,Second
+551,Renault,sedan,1,1.2,Petrol,yes,2016,Logan,tanger,64456,Manual,First
+552,Mitsubishi,hatch,400,1.8,Other,yes,1991,Galant,hosseima,37124,Manual,First
+553,Mercedes-Benz,sedan,145,1.8,Petrol,yes,2008,C-Class,oujda,61964,Manual,First
+554,BMW,other,164,,Gas,yes,2004,645,Casablanca,127001,Manual,First
+555,BMW,vagon,65,2.0,Petrol,yes,2014,328,tetouan,72035,Manual,First
+556,Mercedes-Benz,other,250,2.2,Diesel,yes,2005,Sprinter 311,tanger,47674,Manual,First
+557,BMW,crossover,108,2.0,Diesel,yes,2012,X1,mekness,60000,Automatic,First
+558,Mitsubishi,hatch,92,1.6,Petrol,yes,2003,Carisma,tetouan,60000,Manual,First
+559,Mercedes-Benz,sedan,100,5.5,Petrol,yes,2011,S 500,oujda,2000,Manual,First
+560,Volkswagen,sedan,88,,Other,yes,2012,Passat CC,hosseima,24773,Manual,First
+561,Audi,crossover,186,4.2,Petrol,yes,2006,Q7,tanger,54253,Automatic,First
+562,BMW,sedan,390,2.5,Petrol,yes,1991,525,tanger,29161,Automatic,First
+563,BMW,sedan,116,2.5,Diesel,yes,2004,525,tanger,50297,Manual,First
+564,BMW,crossover,23,3.0,Petrol,yes,2013,X6,sefrou,35000,Manual,First
+565,BMW,sedan,230,3.0,Diesel,no,2003,530,hosseima,71703,Automatic,First
+566,Renault,van,160,1.5,Diesel,yes,2012,Kangoo,oujda,125000,Automatic,First
+567,Audi,sedan,305,2.3,Gas,yes,1989,100,dakhla,51873,Manual,First
+568,Audi,crossover,112,4.2,Diesel,yes,2008,Q7,tanger,42999,Manual,First
+569,Volkswagen,vagon,69,1.4,Petrol,yes,2012,Touran,mekness,64000,Automatic,First
+570,Mercedes-Benz,sedan,56,5.0,Other,yes,2003,SL 500 (550),tanger,37712,Manual,First
+571,Volkswagen,van,442,2.4,Diesel,yes,1992,T4 (Transporter),marrakech,74000,Manual,First
+572,Mercedes-Benz,van,0,2.2,Diesel,yes,2016,V 250,Casablanca,90000,Manual,Second
+573,Mercedes-Benz,other,180,3.0,Diesel,yes,2008,Vito,mekness,48000,Manual,First
+574,Volkswagen,sedan,73,1.8,Petrol,yes,2012,Passat B7,Casablanca,41195,Manual,First
+575,Audi,sedan,270,1.9,Diesel,yes,2002,A6,hosseima,34429,Manual,First
+576,Volkswagen,van,158,1.6,Diesel,yes,2012,Caddy,hosseima,67906,Manual,First
+577,Volkswagen,other,160,2.5,Other,yes,2006,T5 (Transporter),agadir,44001,Automatic,First
+578,Mercedes-Benz,crossover,172,3.5,Other,yes,2008,ML 350,tetouan,53000,Manual,First
+579,Audi,sedan,175,3.0,Petrol,yes,2006,A6,tanger,59711,Manual,First
+580,Audi,sedan,74,2.0,Diesel,yes,2011,A5,Casablanca,20568,Manual,First
+581,Mercedes-Benz,crossover,121,3.0,Diesel,yes,2013,GL 350,Casablanca,20000,Automatic,First
+582,Renault,sedan,148,,Other,yes,2011,Kangoo,tetouan,115195,Manual,First
+583,Volkswagen,sedan,133,1.6,Petrol,yes,2012,Polo,hosseima,21603,Automatic,First
+584,Toyota,sedan,133,2.4,Gas,yes,2008,Camry,Casablanca,48000,Automatic,First
+585,Mercedes-Benz,crossover,0,,Other,yes,2016,GLS 350,mekness,62000,Automatic,First
+586,Audi,sedan,304,2.5,Diesel,no,1998,A6,Casablanca,63000,Manual,Second
+587,Mercedes-Benz,crossover,190,3.2,Diesel,yes,2008,ML 320,dakhla,300000,Manual,First
+588,Mercedes-Benz,sedan,119,4.7,Petrol,yes,2012,S 500,oujda,67000,Manual,First
+589,BMW,crossover,215,3.0,Diesel,yes,2006,X5,oujda,69000,Automatic,First
+590,BMW,sedan,380,2.0,Petrol,yes,1991,320,Casablanca,41000,Manual,First
+591,Mercedes-Benz,van,138,2.2,Diesel,yes,2009,Vito,mekness,66372,Automatic,First
+592,Volkswagen,vagon,106,1.6,Diesel,yes,2013,Passat B7,marrakech,28000,Manual,First
+593,Mitsubishi,crossover,43,2.4,Petrol,yes,2013,Outlander,tetouan,52108,Manual,First
+594,Toyota,hatch,207,1.3,Petrol,yes,1995,Corolla,rabat,76000,Automatic,Second
+595,Mercedes-Benz,crossover,0,2.98,Diesel,yes,2016,GLE-Class,tanger,9565,Manual,First
+596,Mercedes-Benz,sedan,363,3.2,Gas,yes,2004,E-Class,agadir,49000,Manual,First
+597,BMW,vagon,180,2.0,Diesel,no,2011,118,dakhla,65218,Manual,First
+598,Toyota,crossover,252,4.2,Diesel,yes,2002,Land Cruiser 100,rabat,39000,Manual,First
+599,Renault,van,186,1.5,Diesel,yes,2012,Kangoo,oujda,152000,Manual,Second
+600,Mitsubishi,sedan,155,1.6,Gas,yes,2007,Lancer,rabat,82329,Automatic,First
+601,Volkswagen,sedan,185,1.4,Petrol,yes,2011,Golf VI,tetouan,7200,Manual,First
+602,Renault,vagon,177,1.5,Diesel,yes,2011,Megane,hosseima,25692,Manual,First
+603,BMW,crossover,265,3.0,Diesel,yes,2005,X5,dakhla,14000,Manual,First
+604,Toyota,crossover,233,4.0,Gas,yes,2006,Land Cruiser Prado,rabat,57000,Manual,First
+605,Volkswagen,van,194,1.6,Diesel,yes,2011,Caddy,agadir,37229,Automatic,First
+606,Volkswagen,sedan,0,1.6,Petrol,yes,2016,Polo,Casablanca,74000,Manual,First
+607,Renault,van,268,1.5,Diesel,yes,2008,Grand Scenic,rabat,93000,Manual,First
+608,Mitsubishi,sedan,102,2.0,Gas,yes,2008,Lancer X,oujda,55000,Manual,First
+609,Audi,vagon,325,2.5,Diesel,no,2000,A6,marrakech,54000,Manual,First
+610,Mitsubishi,crossover,100,3.2,Diesel,yes,2013,Pajero Wagon,tanger,56532,Manual,First
+611,Mitsubishi,sedan,98,2.0,Petrol,yes,2009,Lancer X,oujda,59000,Manual,First
+612,Audi,hatch,165,1.6,Gas,yes,2006,A3,tanger,37832,Automatic,First
+613,Mercedes-Benz,other,315,5.0,Gas,yes,2004,CL 500,Casablanca,92000,Manual,First
+614,Mercedes-Benz,van,0,2.2,Diesel,yes,2016,Vito,tanger,72202,Manual,First
+615,Renault,other,188,2.0,Diesel,yes,2008,Trafic,hosseima,86925,Automatic,First
+616,Toyota,sedan,105,2.5,Gas,yes,2012,Camry,Casablanca,31378,Manual,First
+617,Mercedes-Benz,van,273,2.9,Diesel,yes,2001,Sprinter 310,sefrou,160000,Manual,Second
+618,Mercedes-Benz,other,82,5.5,Petrol,yes,2010,S 500,marrakech,80000,Manual,First
+619,Audi,crossover,0,3.0,Diesel,yes,2016,Q7,tetouan,27001,Automatic,First
+620,Renault,sedan,100,1.4,Petrol,yes,2006,Clio,marrakech,25000,Automatic,Second
+621,BMW,sedan,225,3.0,Diesel,yes,2003,530,tanger,60280,Automatic,First
+622,Mercedes-Benz,other,176,3.0,Diesel,yes,2008,E-Class,Casablanca,24000,Manual,First
+623,Audi,other,82,4.2,Petrol,yes,2007,R8,tanger,84143,Manual,First
+624,Toyota,sedan,220,1.6,Petrol,yes,1994,Carina,rabat,68000,Manual,Second
+625,Volkswagen,van,168,2.0,Diesel,yes,2012,T5 (Transporter) ,Casablanca,86000,Manual,First
+626,BMW,hatch,110,4.4,Petrol,yes,2008,X6,tanger,22389,Manual,First
+627,Volkswagen,van,167,2.0,Diesel,yes,2013,Multivan,rabat,168000,Manual,First
+628,Toyota,sedan,95,2.0,Gas,yes,2011,Avensis,Casablanca,19600,Manual,First
+629,Toyota,crossover,80,4.0,Petrol,yes,2013,Land Cruiser Prado,tanger,66930,Manual,First
+630,Volkswagen,sedan,81,,Other,no,2013,Passat B7,tetouan,31000,Manual,First
+631,Audi,sedan,267,2.5,Diesel,no,1999,A6,Casablanca,73000,Automatic,First
+632,BMW,vagon,159,3.0,Diesel,yes,2008,530,marrakech,65000,Manual,Second
+633,BMW,crossover,30,2.0,Diesel,yes,2016,X5,rabat,2200,Manual,First
+634,Toyota,crossover,250,4.7,Gas,yes,2001,Land Cruiser 100,rabat,85000,Automatic,Second
+635,Audi,sedan,285,,Gas,no,1996,A8,hosseima,36367,Manual,First
+636,Volkswagen,other,300,2.5,Diesel,yes,2007,T5 (Transporter),Casablanca,55000,Manual,First
+637,Volkswagen,other,145,2.0,Diesel,yes,2011,T5 (Transporter) ,mekness,48000,Automatic,First
+638,Toyota,sedan,225,3.0,Gas,yes,2004,Camry,Casablanca,62000,Manual,First
+639,Mercedes-Benz,sedan,300,2.0,Petrol,yes,1991,E-Class,Casablanca,8500,Manual,First
+640,Volkswagen,van,169,1.6,Diesel,yes,2011,Caddy,dakhla,65900,Manual,First
+641,Toyota,sedan,149,3.5,Gas,yes,2008,Camry,sefrou,49000,Manual,First
+642,Audi,vagon,180,2.0,Diesel,yes,2007,A6,oujda,130000,Manual,First
+643,Mitsubishi,sedan,78,1.5,Gas,yes,2011,Lancer X,dakhla,82450,Manual,First
+644,Volkswagen,other,248,1.9,Diesel,yes,2010,T5 (Transporter),Casablanca,19863,Automatic,First
+645,Toyota,crossover,40,2.7,Petrol,yes,2011,Land Cruiser Prado,mekness,57854,Manual,First
+646,Volkswagen,other,360,2.5,Diesel,yes,2001,T4 (Transporter),marrakech,27768,Manual,First
+647,BMW,sedan,300,2.0,Petrol,yes,1986,320,Casablanca,44000,Automatic,First
+648,Audi,sedan,247,2.5,Diesel,yes,2001,A6,oujda,123880,Manual,First
+649,Volkswagen,vagon,0,2.0,Diesel,yes,2014,Touran,sefrou,45000,Manual,First
+650,Toyota,sedan,204,1.8,Other,yes,2008,Avensis,hosseima,24700,Manual,First
+651,BMW,sedan,270,3.5,Petrol,yes,1998,735,tanger,63111,Automatic,Second
+652,Mitsubishi,sedan,150,1.8,Gas,yes,2004,Virage,marrakech,59000,Automatic,First
+653,Volkswagen,van,1,5.0,Diesel,yes,2015,Multivan,Casablanca,69300,Automatic,Second
+654,BMW,sedan,330,,Diesel,yes,1997,525,Casablanca,46759,Manual,First
+655,Toyota,sedan,71,2.4,Petrol,yes,2008,Camry,rabat,80000,Manual,Fourth & Above
+656,Volkswagen,sedan,25,2.0,Diesel,yes,2015,Jetta,Casablanca,50000,Automatic,First
+657,Toyota,sedan,250,2.4,Petrol,yes,2003,Camry,oujda,10000,Automatic,First
+658,Volkswagen,van,350,1.0,Other,yes,2004,T5 (Transporter) ,tanger,15473,Manual,First
+659,Toyota,sedan,126,1.6,Petrol,yes,2008,Corolla,sefrou,59800,Automatic,First
+660,Audi,sedan,140,2.0,Diesel,yes,2012,A6,Casablanca,50888,Manual,First
+661,Volkswagen,hatch,62,1.2,Diesel,yes,2011,Polo,mekness,52000,Manual,First
+662,Mercedes-Benz,sedan,140,5.5,Petrol,yes,2011,S 500,marrakech,29000,Manual,First
+663,Volkswagen,sedan,280,2.5,Diesel,no,2000,Passat B5,oujda,71556,Manual,First
+664,Mercedes-Benz,sedan,100,3.5,Petrol,yes,2010,S 350,sefrou,90000,Manual,First
+665,Toyota,sedan,10,1.5,Petrol,yes,1979,Corolla,oujda,69000,Manual,First
+666,Toyota,sedan,73,3.5,Petrol,yes,2010,Camry,Casablanca,87000,Manual,First
+667,Mercedes-Benz,van,212,2.2,Diesel,yes,2000,Vito,rabat,60000,Manual,Second
+668,Mercedes-Benz,sedan,42,1.6,Petrol,yes,2014,C-Class,sefrou,55000,Manual,First
+669,Mitsubishi,crossover,59,,Petrol,yes,2012,ASX,hosseima,35082,Manual,First
+670,Audi,vagon,250,2.5,Diesel,no,2001,A6,hosseima,33858,Automatic,First
+671,Renault,van,248,2.5,Diesel,yes,2005,Trafic,rabat,41747,Automatic,First
+672,BMW,sedan,300,3.0,Diesel,yes,2000,330,tanger,84725,Manual,First
+673,Mitsubishi,sedan,150,1.6,Petrol,yes,2005,Lancer,oujda,35000,Manual,First
+674,Volkswagen,van,312,2.5,Diesel,yes,2000,T4 (Transporter) ,oujda,30112,Manual,First
+675,Audi,hatch,1,1.4,Petrol,yes,2016,A5,hosseima,32709,Manual,First
+676,Mitsubishi,sedan,55,2.0,Other,yes,2008,Lancer X,marrakech,62000,Manual,Second
+677,Mercedes-Benz,crossover,99,5.0,Gas,yes,2005,G 63 AMG,mekness,40000,Automatic,First
+678,Mercedes-Benz,van,350,2.2,Diesel,yes,2000,Vito,oujda,18500,Manual,First
+679,Mercedes-Benz,other,26,,Diesel,yes,2013,E-Class,mekness,70000,Manual,First
+680,Volkswagen,vagon,284,1.9,Other,yes,2001,Golf IV,dakhla,42700,Manual,First
+681,BMW,sedan,275,2.0,Gas,yes,1998,520,sefrou,80000,Manual,First
+682,Audi,sedan,196,2.8,Petrol,no,1997,A8,tanger,26671,Manual,Second
+683,Volkswagen,van,110,1.9,Diesel,yes,2009,T5 (Transporter),oujda,52000,Manual,First
+684,Mitsubishi,crossover,130,3.0,Gas,yes,2007,Pajero Sport,rabat,8350,Manual,First
+685,Volkswagen,sedan,320,1.9,Diesel,yes,2001,Passat B5,agadir,35000,Manual,First
+686,Mercedes-Benz,sedan,240,2.4,Petrol,no,1999,E-Class,tetouan,45128,Manual,First
+687,Renault,crossover,201,1.9,Diesel,yes,2006,Kangoo,rabat,82000,Manual,Second
+688,Renault,vagon,121,1.5,Diesel,yes,2013,Megane,tetouan,45000,Manual,First
+689,Mercedes-Benz,sedan,245,2.2,Diesel,yes,2007,E-Class,Casablanca,57000,Manual,First
+690,BMW,other,212,3.0,Diesel,no,2004,730,Casablanca,54230,Manual,First
+691,Audi,vagon,300,1.8,Petrol,no,1999,A4,oujda,19000,Manual,First
+692,BMW,other,26,2.0,Diesel,yes,2015,520,tanger,44753,Manual,First
+693,BMW,crossover,176,3.0,Gas,yes,2002,X5,Casablanca,18000,Automatic,First
+694,BMW,sedan,67,3.0,Petrol,yes,2011,535,sefrou,24000,Manual,First
+695,Toyota,crossover,150,4.7,Gas,yes,2002,Land Cruiser 100,oujda,78000,Automatic,Second
+696,Renault,van,73,1.5,Diesel,yes,2012,Kangoo,sefrou,90000,Manual,First
+697,BMW,crossover,19,3.0,Diesel,yes,2015,X6,sefrou,48000,Manual,First
+698,BMW,sedan,256,2.5,Diesel,no,2001,525,agadir,55000,Automatic,First
+699,BMW,sedan,200,2.0,Diesel,no,2003,320,tanger,65100,Manual,First
+700,Mercedes-Benz,sedan,1,1.8,Petrol,yes,1996,C-Class,dakhla,83950,Manual,First
+701,Volkswagen,other,270,2.5,Diesel,yes,2007,T5 (Transporter),dakhla,71172,Manual,Third
+702,Renault,other,227,1.4,Gas,yes,2005,Kangoo,Casablanca,1011,Manual,First
+703,Renault,vagon,91,1.5,Diesel,yes,2008,Scenic,sefrou,52000,Manual,First
+704,BMW,sedan,127,2.5,Petrol,yes,2010,523,tetouan,14000,Automatic,First
+705,Mitsubishi,sedan,130,2.0,Petrol,yes,2008,Lancer X,Casablanca,50000,Manual,First
+706,BMW,sedan,271,3.0,Diesel,yes,2001,530,rabat,32425,Manual,First
+707,Renault,vagon,175,1.5,Diesel,yes,2012,Megane,tetouan,19000,Manual,First
+708,Volkswagen,hatch,130,1.3,Petrol,yes,1986,Golf II,sefrou,109500,Manual,Third
+709,Volkswagen,sedan,38,2.0,Diesel,yes,2014,Jetta,hosseima,43773,Manual,First
+710,Audi,vagon,253,1.9,Diesel,yes,2002,A6,mekness,50000,Manual,First
+711,Toyota,crossover,225,4.7,Gas,yes,2003,Land Cruiser 100,tetouan,7445,Manual,First
+712,Audi,sedan,250,,Diesel,no,2001,A6,sefrou,55000,Manual,First
+713,Volkswagen,vagon,300,1.9,Diesel,yes,1998,Golf III,tetouan,60000,Manual,First
+714,Volkswagen,vagon,160,2.8,Petrol,yes,2001,Sharan,oujda,110000,Manual,First
+715,Audi,sedan,370,2.5,Diesel,no,1998,A6,rabat,21558,Manual,First
+716,Volkswagen,van,1,1.9,Diesel,yes,2004,T5 (Transporter),rabat,1700,Automatic,First
+717,Mercedes-Benz,crossover,27,3.0,Diesel,yes,2015,G 350,oujda,47000,Automatic,First
+718,Renault,sedan,87,1.4,Petrol,yes,2013,Symbol,tanger,62729,Manual,First
+719,Volkswagen,van,123,1.2,Petrol,yes,2013,Caddy,marrakech,36000,Automatic,First
+720,Audi,other,150,4.2,Petrol,yes,2007,Q7,dakhla,50000,Manual,First
+721,Audi,hatch,195,3.0,Diesel,yes,2010,A5,mekness,59000,Automatic,First
+722,Volkswagen,other,184,2.0,Diesel,yes,2012,T6 (Transporter) ,dakhla,5000,Manual,First
+723,Mitsubishi,crossover,115,3.0,Gas,yes,2008,Pajero Wagon,dakhla,91000,Manual,First
+724,Mercedes-Benz,sedan,220,5.0,Petrol,yes,2004,S 500,Casablanca,26299,Manual,First
+725,Volkswagen,sedan,87,1.6,Petrol,yes,2011,Polo,Casablanca,65000,Manual,First
+726,Renault,sedan,180,1.4,Petrol,yes,2003,Symbol,mekness,91200,Manual,First
+727,BMW,sedan,200,,Petrol,yes,1996,316,dakhla,45306,Automatic,Second
+728,Mitsubishi,sedan,82,2.0,Petrol,yes,2007,Lancer,sefrou,45000,Manual,First
+729,Audi,other,126,2.6,Petrol,yes,1998,80,mekness,40000,Manual,First
+730,Toyota,crossover,92,2.2,Diesel,yes,2013,Rav 4,hosseima,22974,Automatic,First
+731,Volkswagen,sedan,195,2.0,Petrol,yes,2006,Passat B6,agadir,60006,Manual,First
+732,Mercedes-Benz,other,220,2.2,Diesel,yes,2002,Vito,mekness,51000,Automatic,First
+733,Mercedes-Benz,crossover,95,4.7,Petrol,yes,2010,GL 450,Casablanca,80578,Automatic,Second
+734,BMW,sedan,290,1.6,Petrol,yes,1985,316,rabat,24255,Manual,First
+735,Mitsubishi,sedan,125,2.0,Gas,yes,2008,Lancer X,hosseima,32249,Manual,First
+736,Renault,sedan,152,1.6,Petrol,yes,2007,Megane,hosseima,32283,Automatic,Second
+737,Volkswagen,crossover,150,2.5,Diesel,yes,2005,Touareg,mekness,86000,Automatic,Second
+738,Mercedes-Benz,sedan,366,3.2,Gas,yes,1994,E-Class,oujda,50958,Manual,First
+739,BMW,crossover,1,2.0,Petrol,yes,2016,X5,mekness,49000,Automatic,First
+740,Volkswagen,van,190,1.9,Diesel,yes,2008,T5 (Transporter),oujda,74000,Manual,First
+741,Mercedes-Benz,van,19,3.5,Petrol,yes,2013,Sprinter 324,Casablanca,15500,Manual,First
+742,Mitsubishi,vagon,230,1.6,Petrol,yes,2005,Space Star,marrakech,125000,Automatic,Second
+743,Audi,sedan,127,2.8,Petrol,yes,2010,A6,Casablanca,13361,Manual,First
+744,Mercedes-Benz,van,450,2.2,Diesel,yes,2000,Vito,tetouan,60020,Manual,First
+745,Audi,sedan,58,2.0,Petrol,yes,2014,A5,marrakech,43521,Manual,First
+746,Mercedes-Benz,van,307,2.2,Diesel,yes,2007,Vito,mekness,46946,Manual,Second
+747,Volkswagen,vagon,195,1.6,Diesel,yes,2013,Golf VI,marrakech,10000,Automatic,First
+748,BMW,sedan,217,2.2,Petrol,yes,2002,320,mekness,54000,Manual,First
+749,Volkswagen,crossover,2,3.0,Diesel,yes,2016,Touareg,dakhla,78442,Automatic,First
+750,Mercedes-Benz,other,245,2.2,Diesel,yes,2004,Vito,Casablanca,54000,Automatic,First
+751,Volkswagen,other,142,2.0,Petrol,yes,2007,Eos,rabat,42000,Manual,Second
+752,BMW,sedan,360,2.5,Petrol,yes,1992,525,Casablanca,75000,Manual,Second
+753,Toyota,sedan,192,2.0,Petrol,yes,2003,Avensis,tanger,63856,Automatic,First
+754,Toyota,sedan,139,2.4,Gas,yes,2008,Camry,tetouan,21460,Manual,First
+755,Renault,vagon,162,1.5,Diesel,yes,2006,Megane,rabat,53000,Manual,First
+756,Volkswagen,sedan,200,1.3,Gas,yes,1991,Jetta,rabat,42000,Automatic,Third
+757,Mercedes-Benz,sedan,143,5.5,Petrol,yes,2007,S 550,Casablanca,27014,Manual,First
+758,Toyota,sedan,157,2.4,Gas,yes,2007,Camry,oujda,31000,Manual,First
+759,Volkswagen,sedan,87,,Other,yes,2012,Passat B7,tanger,44194,Automatic,First
+760,BMW,crossover,74,2.0,Petrol,yes,2010,X1,marrakech,40000,Automatic,First
+761,BMW,sedan,1,3.0,Petrol,yes,1995,730,mekness,49000,Automatic,First
+762,Volkswagen,van,145,2.0,Gas,yes,2011,Caddy,hosseima,49133,Manual,First
+763,BMW,crossover,142,3.0,Other,yes,2011,X6,rabat,55000,Manual,First
+764,Mitsubishi,sedan,84,2.0,Petrol,yes,2009,Lancer X,agadir,58000,Manual,First
+765,Volkswagen,other,103,2.0,Diesel,yes,2013,T5 (Transporter) ,dakhla,69000,Manual,First
+766,Volkswagen,van,300,2.4,Diesel,yes,2000,T4 (Transporter),tetouan,25470,Manual,First
+767,Volkswagen,van,132,2.0,Diesel,yes,2011,Multivan,tanger,19963,Manual,Second
+768,Mercedes-Benz,crossover,0,3.0,Petrol,yes,2016,GLE-Class,Casablanca,61600,Manual,First
+769,Volkswagen,other,177,2.0,Diesel,yes,2012,T5 (Transporter) ,hosseima,36935,Automatic,First
+770,Mercedes-Benz,sedan,20,3.0,Diesel,yes,2015,S 350,rabat,50000,Manual,Second
+771,BMW,crossover,230,3.0,Diesel,yes,2006,X5,tetouan,45000,Manual,First
+772,Mercedes-Benz,other,90,1.8,Petrol,yes,2008,C-Class,Casablanca,33000,Manual,First
+773,Volkswagen,sedan,1,1.6,Diesel,yes,2016,Jetta,hosseima,33793,Manual,First
+774,BMW,crossover,170,3.0,Diesel,yes,2008,X5,tanger,53817,Manual,First
+775,BMW,sedan,334,2.0,Diesel,no,1999,320,tanger,93850,Manual,First
+776,Volkswagen,van,326,2.4,Diesel,yes,1995,T4 (Transporter),Casablanca,89000,Automatic,First
+777,Volkswagen,sedan,80,2.0,Diesel,yes,2014,Passat B7,tanger,24973,Manual,First
+778,Audi,crossover,0,2.0,Diesel,yes,2016,Q5,Casablanca,63298,Automatic,First
+779,Audi,sedan,122,4.0,Diesel,yes,2008,A8,tanger,36797,Automatic,First
+780,Mercedes-Benz,crossover,0,2.98,Diesel,yes,2016,GLS 350,rabat,66000,Manual,Second
+781,Mercedes-Benz,sedan,167,3.2,Diesel,yes,2003,E-Class,tetouan,31184,Manual,First
+782,Renault,van,183,1.9,Diesel,yes,2004,Trafic,rabat,50296,Automatic,Second
+783,Renault,vagon,184,1.5,Diesel,yes,2011,Megane,oujda,39000,Manual,First
+784,Volkswagen,sedan,70,,Other,yes,2014,Polo,dakhla,117000,Manual,First
+785,Volkswagen,van,345,1.9,Diesel,yes,2006,T5 (Transporter) ,rabat,120000,Manual,First
+786,Mercedes-Benz,other,37,5.0,Petrol,yes,2012,G 500,agadir,42388,Automatic,First
+787,Volkswagen,van,212,1.9,Diesel,yes,2006,T5 (Transporter),oujda,19860,Manual,First
+788,BMW,sedan,200,2.5,Petrol,yes,1995,525,tetouan,51001,Automatic,First
+789,Audi,hatch,24,2.8,Other,yes,2014,A7,tetouan,40000,Manual,First
+790,Mercedes-Benz,hatch,177,2.0,Diesel,no,2008,B 200,sefrou,80000,Manual,First
+791,Audi,sedan,231,1.9,Diesel,no,2002,A6,rabat,20248,Manual,First
+792,Volkswagen,vagon,128,1.4,Gas,yes,2011,Passat B7,tetouan,38000,Manual,First
+793,Volkswagen,vagon,430,1.8,Petrol,yes,1991,Passat B3,oujda,30000,Manual,First
+794,Mercedes-Benz,van,230,2.2,Diesel,yes,2004,Vito,Casablanca,29000,Automatic,First
+795,Mitsubishi,sedan,145,2.0,Gas,yes,2007,Lancer,sefrou,72000,Manual,Second
+796,Volkswagen,other,119,2.0,Diesel,yes,2012,T6 (Transporter),tetouan,54801,Manual,First
+797,BMW,crossover,250,3.0,Petrol,no,2003,X5,mekness,71000,Automatic,First
+798,Renault,van,159,2.0,Diesel,yes,2010,Trafic,rabat,20000,Manual,First
+799,Volkswagen,vagon,0,2.0,Petrol,yes,2016,Passat B8,Casablanca,69000,Automatic,Second
+800,Mercedes-Benz,van,207,2.2,Diesel,yes,2003,Vito,tanger,41075,Manual,First
+801,Renault,van,183,2.5,Diesel,yes,2006,Trafic,Casablanca,58000,Manual,First
+802,Toyota,sedan,140,3.5,Gas,yes,2007,Camry,rabat,160000,Manual,First
+803,Renault,van,162,1.4,Petrol,yes,2007,Kangoo,tetouan,21771,Manual,First
+804,BMW,crossover,33,3.0,Petrol,yes,2015,X5,mekness,55005,Manual,First
+805,Renault,sedan,0,1.5,Diesel,yes,2016,Fluence,marrakech,33900,Automatic,First
+806,Mercedes-Benz,sedan,190,2.6,Petrol,yes,2001,210,hosseima,60357,Manual,First
+807,Mercedes-Benz,sedan,37,4.7,Petrol,yes,2014,S 500,oujda,51000,Manual,First
+808,Volkswagen,hatch,320,1.4,Petrol,yes,2002,Golf IV,rabat,88123,Manual,First
+809,BMW,sedan,238,3.5,Petrol,yes,1999,535,oujda,71491,Manual,First
+810,Mitsubishi,other,68,1.8,Petrol,yes,2011,ASX,sefrou,85000,Manual,First
+811,Renault,van,159,1.5,Diesel,yes,2011,Kangoo,tetouan,82000,Manual,Second
+812,Volkswagen,hatch,200,1.8,Gas,no,1992,Golf III,oujda,110471,Manual,First
+813,BMW,sedan,305,2.0,Petrol,yes,1995,520,tetouan,35000,Manual,First
+814,Mitsubishi,sedan,112,2.4,Petrol,yes,2007,Galant,hosseima,53537,Automatic,First
+815,Mercedes-Benz,sedan,3,3.0,Diesel,yes,1998,E-Class,rabat,136000,Manual,First
+816,Renault,van,1,,Diesel,yes,2012,Kangoo,oujda,95637,Manual,Second
+817,Volkswagen,hatch,180,1.4,Petrol,yes,2003,Golf IV,marrakech,25789,Manual,Second
+818,Mercedes-Benz,van,215,2.2,Diesel,yes,2011,Vito,Casablanca,25000,Manual,First
+819,Mercedes-Benz,sedan,400,2.0,Petrol,yes,1988,190,sefrou,135000,Manual,Second
+820,Toyota,sedan,15,2.5,Petrol,yes,2015,Camry,tetouan,39000,Automatic,First
+821,Renault,sedan,131,1.6,Petrol,yes,2009,Megane,mekness,67407,Manual,First
+822,Volkswagen,van,165,2.0,Diesel,yes,2012,Caddy,Casablanca,25000,Automatic,First
+823,Toyota,sedan,118,1.4,Petrol,yes,2010,Corolla,marrakech,39000,Manual,Second
+824,Mercedes-Benz,van,260,2.2,Diesel,yes,2008,Sprinter 213,Casablanca,22000,Manual,First
+825,Renault,van,149,1.5,Other,yes,2011,Kangoo,tanger,55012,Manual,Second
+826,Mitsubishi,crossover,127,3.0,Petrol,yes,2008,Outlander XL,mekness,70000,Automatic,First
+827,Audi,vagon,253,1.8,Gas,no,1997,A4,hosseima,31426,Manual,First
+828,Mitsubishi,sedan,147,2.0,Petrol,yes,2007,Lancer,tanger,26981,Manual,First
+829,Renault,sedan,21,1.5,Diesel,yes,2014,Fluence,mekness,12248,Manual,First
+830,Audi,vagon,248,2.5,Diesel,yes,2000,A6,rabat,60000,Automatic,First
+831,Volkswagen,van,230,1.9,Diesel,yes,2008,Caddy,marrakech,46000,Manual,Second
+832,Toyota,sedan,110,3.5,Petrol,yes,2008,Camry,Casablanca,20364,Automatic,Second
+833,Renault,vagon,214,1.5,Diesel,yes,2004,Megane,mekness,75000,Automatic,Second
+834,Audi,vagon,243,2.5,Diesel,yes,2003,A6,oujda,66276,Manual,First
+835,Renault,vagon,230,1.5,Diesel,yes,2012,Megane,tetouan,37000,Manual,First
+836,Audi,other,12,5.2,Petrol,yes,2012,R8,tanger,33552,Automatic,First
+837,BMW,hatch,79,1.6,Petrol,yes,2013,118,tetouan,18000,Manual,First
+838,Volkswagen,vagon,220,2.0,Diesel,no,2005,Touran,mekness,44328,Manual,First
+839,Volkswagen,hatch,170,1.4,Petrol,yes,2001,Golf IV,rabat,4700,Manual,First
+840,Mercedes-Benz,crossover,314,99.99,Gas,yes,2000,ML 320,marrakech,20229,Manual,First
+841,BMW,sedan,140,3.0,Diesel,no,2000,530,tanger,60271,Manual,First
+842,Volkswagen,van,124,2.0,Diesel,yes,2013,T5 (Transporter) ,Casablanca,34000,Automatic,First
+843,Mitsubishi,sedan,247,2.0,Gas,yes,1998,Galant,mekness,42365,Manual,First
+844,Mercedes-Benz,other,22,1.8,Petrol,yes,2014,C-Class,tetouan,53000,Manual,First
+845,BMW,sedan,311,2.0,Gas,yes,1998,520,Casablanca,32000,Manual,Second
+846,Volkswagen,crossover,1,2.0,Petrol,yes,2014,Tiguan,mekness,62001,Manual,First
+847,Volkswagen,hatch,1,1.8,Gas,yes,1996,Golf III,hosseima,37630,Automatic,First
+848,Mercedes-Benz,sedan,319,2.2,Diesel,yes,2003,220,agadir,27000,Automatic,First
+849,Toyota,sedan,238,1.8,Petrol,yes,1996,Carina,Casablanca,69000,Manual,Second
+850,Renault,van,135,,Diesel,yes,2008,Kangoo,tetouan,40000,Manual,First
+851,Renault,hatch,250,1.4,Petrol,yes,1987,5,mekness,46000,Automatic,First
+852,Audi,sedan,37,2.8,Petrol,yes,2012,A6,rabat,119000,Manual,Second
+853,Toyota,crossover,152,4.0,Gas,yes,2006,Land Cruiser Prado,hosseima,61495,Manual,Third
+854,Mercedes-Benz,sedan,168,2.0,Petrol,no,1994,E-Class,sefrou,35000,Manual,First
+855,Audi,crossover,65,2.99,Diesel,yes,2013,A6 Allroad,oujda,45000,Manual,First
+856,Volkswagen,sedan,256,1.8,Petrol,yes,2002,Passat B5,oujda,156056,Manual,First
+857,Toyota,sedan,152,3.5,Gas,yes,2007,Avalon,rabat,90000,Manual,Second
+858,Volkswagen,crossover,167,3.2,Petrol,yes,2006,Touareg,tetouan,51387,Manual,First
+859,Volkswagen,crossover,200,4.2,Petrol,yes,2007,Touareg,dakhla,75391,Manual,First
+860,BMW,crossover,70,3.0,Diesel,yes,2014,X5,mekness,70000,Manual,First
+861,Volkswagen,van,126,2.0,Diesel,yes,2012,Caddy,sefrou,230000,Manual,Third
+862,Mitsubishi,sedan,178,1.6,Petrol,yes,2007,Lancer,agadir,82002,Automatic,First
+863,Mercedes-Benz,sedan,163,5.5,Gas,yes,2007,S 550,Casablanca,68400,Automatic,First
+864,Mercedes-Benz,sedan,238,2.2,Diesel,no,2001,E-Class,hosseima,46566,Manual,First
+865,Volkswagen,vagon,170,1.6,Diesel,yes,2011,Passat B7,sefrou,43000,Automatic,Second
+866,Toyota,crossover,107,3.5,Gas,yes,2011,Highlander,dakhla,56000,Manual,First
+867,Toyota,crossover,95,3.5,Gas,yes,2011,Highlander,mekness,77000,Manual,Second
+868,BMW,other,203,2.0,Petrol,no,2001,318,hosseima,58950,Manual,First
+869,Mercedes-Benz,crossover,0,2.2,Diesel,yes,2016,GLE-Class,marrakech,36000,Manual,First
+870,BMW,crossover,115,3.0,Diesel,yes,2008,X5 M,marrakech,55116,Manual,First
+871,Volkswagen,sedan,75,2.0,Petrol,yes,2013,Passat CC,tanger,46496,Manual,First
+872,Audi,sedan,360,1.8,Petrol,yes,1998,A6,tanger,97430,Automatic,First
+873,Mercedes-Benz,sedan,210,2.0,Petrol,yes,1995,200,Casablanca,23312,Automatic,First
+874,Volkswagen,hatch,35,2.0,Diesel,yes,2015,Golf VII,mekness,47000,Manual,Second
+875,Volkswagen,van,62,2.0,Diesel,yes,2011,Caravelle,hosseima,58472,Manual,First
+876,Volkswagen,sedan,107,1.8,Petrol,yes,2012,Passat CC,tetouan,42000,Manual,First
+877,Audi,vagon,154,2.0,Diesel,yes,2008,A6,dakhla,10000,Manual,First
+878,Mercedes-Benz,van,0,2.2,Diesel,yes,2016,V 250,rabat,38800,Manual,First
+879,Mercedes-Benz,crossover,148,3.2,Petrol,yes,2001,ML 320,hosseima,29022,Automatic,Second
+880,Volkswagen,crossover,70,1.4,Petrol,yes,2012,Tiguan,Casablanca,28500,Manual,First
+881,Toyota,hatch,74,1.3,Petrol,yes,2008,Yaris,mekness,68000,Manual,First
+882,Volkswagen,vagon,185,2.0,Diesel,yes,2011,Passat B7,sefrou,41000,Manual,First
+883,BMW,vagon,400,2.5,Diesel,yes,1994,525,Casablanca,125000,Automatic,Third
+884,Volkswagen,sedan,80,1.4,Petrol,yes,2013,Jetta,dakhla,59327,Manual,First
+885,Renault,van,192,99.99,Diesel,yes,2011,Kangoo,Casablanca,41000,Manual,First
+886,Renault,van,1,1.5,Diesel,yes,2003,Kangoo,tanger,12794,Automatic,First
+887,Mitsubishi,other,135,1.5,Gas,yes,2008,Lancer X,tetouan,1800,Manual,First
+888,Mercedes-Benz,sedan,300,2.8,Gas,yes,1979,S 280,mekness,55000,Manual,First
+889,Toyota,crossover,1,4.5,Diesel,yes,2016,Land Cruiser 200,oujda,68282,Manual,First
+890,Mercedes-Benz,crossover,254,5.0,Gas,yes,2004,G 500,mekness,28000,Automatic,First
+891,Mitsubishi,crossover,1,1.8,Petrol,yes,2015,ASX,sefrou,82000,Manual,First
+892,Mercedes-Benz,hatch,232,3.0,Diesel,yes,2007,Vito,sefrou,84072,Manual,First
+893,Volkswagen,van,299,2.5,Diesel,yes,2002,Syncro,tanger,27279,Manual,First
+894,Toyota,crossover,160,2.0,Petrol,yes,2007,Rav 4,tanger,51076,Automatic,First
+895,BMW,sedan,388,3.5,Petrol,yes,1998,735,rabat,87000,Automatic,First
+896,Audi,crossover,1,2.0,Petrol,yes,2016,Q3,sefrou,128000,Manual,First
+897,Renault,van,245,2.0,Diesel,yes,2008,Trafic,dakhla,65664,Automatic,First
+898,Audi,vagon,250,2.5,Other,no,2001,A6,hosseima,37804,Manual,First
+899,Volkswagen,van,182,2.0,Diesel,yes,2011,T6 (Transporter) ,Casablanca,100010,Manual,Second
+900,Toyota,crossover,66,2.2,Diesel,yes,2013,Rav 4,oujda,68800,Manual,First
+901,Mercedes-Benz,crossover,160,4.0,Diesel,yes,2008,ML 400,Casablanca,32773,Manual,First
+902,BMW,other,218,3.0,Petrol,yes,2007,335,tanger,39228,Manual,First
+903,BMW,sedan,270,1.8,Petrol,no,1995,318,rabat,65000,Manual,Second
+904,Renault,hatch,125,1.1,Diesel,yes,2012,Laguna,tanger,40310,Manual,First
+905,Mercedes-Benz,sedan,195,2.2,Diesel,yes,2010,E-Class,oujda,9370,Manual,First
+906,Volkswagen,hatch,113,1.4,Petrol,yes,2003,Polo,rabat,180000,Manual,First
+907,Mitsubishi,crossover,97,3.2,Diesel,yes,2009,Pajero Wagon,hosseima,121377,Manual,First
+908,BMW,crossover,240,4.4,Gas,yes,2002,X5,sefrou,28000,Automatic,First
+909,Toyota,other,131,2.4,Gas,yes,2008,Camry,mekness,77000,Manual,Second
+910,Toyota,sedan,65,1.6,Petrol,yes,2009,Auris,Casablanca,27000,Manual,First
+911,Toyota,crossover,3,4.2,Diesel,yes,2013,Land Cruiser 76,tetouan,124000,Manual,First
+912,BMW,crossover,48,4.4,Petrol,yes,2009,X6,hosseima,59630,Automatic,First
+913,Mercedes-Benz,crossover,96,3.5,Petrol,yes,2010,ML 350,tanger,32496,Automatic,First
+914,Mercedes-Benz,crossover,0,3.0,Diesel,yes,2016,GLE-Class,agadir,15000,Automatic,First
+915,Toyota,crossover,82,2.7,Petrol,yes,2013,Venza,sefrou,94385,Manual,Second
+916,Volkswagen,other,128,1.9,Diesel,yes,2010,Caddy,dakhla,129000,Manual,Third
+917,BMW,crossover,37,2.0,Diesel,yes,2013,X1,dakhla,100002,Manual,Third
+918,BMW,crossover,0,3.0,Diesel,yes,2016,X5,sefrou,215000,Manual,First
+919,Audi,sedan,159,5.2,Petrol,yes,2008,S8,sefrou,90000,Automatic,First
+920,Toyota,sedan,51,2.5,Gas,yes,2014,Camry,tetouan,45000,Manual,First
+921,Volkswagen,crossover,0,3.0,Diesel,yes,2016,Touareg,tetouan,40300,Manual,First
+922,Renault,sedan,277,1.5,Diesel,yes,2005,Megane,rabat,66510,Manual,First
+923,BMW,other,72,3.0,Petrol,yes,2007,Z4,mekness,87615,Manual,First
+924,Volkswagen,sedan,248,1.8,Petrol,yes,2002,Passat B5,sefrou,66000,Manual,Second
+925,Toyota,other,73,2.5,Diesel,yes,2012,Hilux,Casablanca,32644,Manual,First
+926,Mercedes-Benz,sedan,198,1.8,Gas,yes,2011,E-Class,rabat,12600,Manual,First
+927,Renault,hatch,275,1.2,Petrol,yes,1991,Clio,sefrou,72204,Manual,First
+928,Volkswagen,hatch,128,1.4,Petrol,yes,2010,Polo,dakhla,79232,Manual,First
+929,BMW,other,138,4.8,Petrol,yes,2007,650,tanger,23540,Manual,First
+930,Mitsubishi,sedan,72,2.4,Petrol,yes,2006,Lancer Evolution,marrakech,90000,Automatic,Second
+931,Audi,sedan,236,2.5,Diesel,no,2003,A6,agadir,59000,Automatic,First
+932,BMW,crossover,0,2.0,Diesel,yes,2016,X5,hosseima,58390,Automatic,First
+933,Toyota,crossover,128,4.0,Gas,yes,2007,Land Cruiser Prado,tanger,82536,Automatic,First
+934,Renault,van,183,2.0,Diesel,yes,2012,Trafic,tanger,14077,Manual,First
+935,Mitsubishi,crossover,112,3.0,Gas,yes,2008,Pajero Wagon,Casablanca,50000,Automatic,Second
+936,Toyota,crossover,59,3.0,Diesel,yes,2014,Land Cruiser Prado,tanger,25095,Manual,First
+937,Renault,van,240,74.0,Diesel,yes,2005,Grand Scenic,hosseima,15982,Manual,First
+938,Mercedes-Benz,other,360,2.2,Diesel,yes,2008,Vito,tetouan,46125,Automatic,Second
+939,Mercedes-Benz,other,115,2.2,Diesel,yes,2011,Vito,oujda,75014,Manual,First
+940,Renault,van,245,1.5,Diesel,yes,2003,Kangoo,hosseima,65423,Manual,First
+941,Mercedes-Benz,sedan,0,3.0,Petrol,yes,2016,CLS 400,sefrou,128000,Manual,Third
+942,Toyota,hatch,140,,Petrol,yes,2008,Auris,rabat,51482,Manual,First
+943,Volkswagen,sedan,110,1.8,Petrol,yes,2011,Passat B7,rabat,48000,Manual,Second
+944,Mercedes-Benz,sedan,103,2.0,Gas,yes,2007,C-Class,tetouan,80000,Manual,Second
+945,BMW,crossover,0,2.5,Diesel,yes,2016,X5,agadir,20000,Manual,Second
+946,Mitsubishi,sedan,170,1.6,Petrol,yes,2004,Lancer,oujda,59270,Manual,First
+947,BMW,sedan,368,3.0,Diesel,yes,2000,730,tetouan,40000,Manual,First
+948,Mercedes-Benz,sedan,180,3.2,Gas,yes,2004,E-Class,hosseima,14165,Automatic,First
+949,Volkswagen,van,237,2.5,Diesel,yes,2005,Multivan,sefrou,120000,Manual,First
+950,Mercedes-Benz,van,177,2.2,Diesel,yes,2011,Vito,tanger,51593,Manual,Second
+951,Volkswagen,sedan,150,2.0,Diesel,yes,2012,Passat B7,Casablanca,52001,Manual,First
+952,Audi,vagon,222,2.5,Diesel,yes,2005,A6,agadir,87000,Automatic,First
+953,Volkswagen,van,167,2.0,Gas,yes,2011,Caddy,tetouan,26000,Manual,First
+954,Mitsubishi,crossover,0,2.4,Diesel,yes,2016,Pajero Sport,Casablanca,56100,Manual,First
+955,Mitsubishi,crossover,79,2.4,Gas,yes,2009,Outlander,marrakech,46354,Manual,Second
+956,Volkswagen,sedan,325,1.8,Gas,yes,2003,Passat B5,sefrou,65000,Automatic,First
+957,Renault,hatch,315,2.2,Diesel,no,2003,Laguna,mekness,66000,Manual,First
+958,Mercedes-Benz,crossover,1,3.0,Diesel,yes,2016,GLS 350,marrakech,37000,Manual,First
+959,Volkswagen,van,165,2.0,Diesel,yes,2013,T5 (Transporter) ,oujda,65090,Manual,First
+960,Toyota,other,160,3.5,Gas,yes,2006,Camry,dakhla,25302,Manual,First
+961,Renault,van,205,1.6,Petrol,yes,2007,Scenic,sefrou,44200,Manual,Second
+962,Volkswagen,van,250,2.5,Diesel,yes,2007,T5 (Transporter),sefrou,30000,Manual,First
+963,Mercedes-Benz,crossover,46,5.5,Petrol,yes,2008,G 500,hosseima,64394,Manual,First
+964,Toyota,crossover,73,4.0,Petrol,yes,2008,Land Cruiser Prado,marrakech,18955,Automatic,First
+965,Mercedes-Benz,crossover,0,3.0,Diesel,yes,2016,GLS 350,rabat,255000,Manual,Third
+966,Mercedes-Benz,crossover,0,3.0,Diesel,yes,2016,GLS 350,sefrou,31000,Manual,First
+967,Renault,van,250,1.5,Diesel,yes,2005,Kangoo,Casablanca,25000,Automatic,First
+968,Mercedes-Benz,van,171,2.2,Diesel,yes,2011,Vito,dakhla,62000,Manual,First
+969,BMW,sedan,303,2.5,Diesel,no,1999,525,tanger,33598,Manual,First
+970,BMW,crossover,176,3.0,Diesel,yes,2012,X5,tanger,33372,Manual,Second
+971,Audi,sedan,250,1.8,Petrol,no,1993,80,oujda,52950,Manual,First
+972,Volkswagen,van,146,2.5,Diesel,yes,2009,T5 (Transporter),oujda,73000,Manual,First
+973,BMW,sedan,130,3.0,Petrol,yes,2011,535,rabat,50001,Automatic,First
+974,Mercedes-Benz,sedan,208,3.2,Diesel,yes,2004,S 320,marrakech,127079,Manual,First
+975,Mercedes-Benz,van,116,2.2,Diesel,yes,2012,Vito,Casablanca,2500,Manual,First
+976,Mitsubishi,sedan,160,2.0,Petrol,yes,2007,Lancer,rabat,37000,Manual,First
+977,Toyota,hatch,52,1.4,Other,yes,2012,Prius,tanger,63591,Manual,First
+978,Volkswagen,sedan,97,1.4,Gas,yes,2012,Passat B7,agadir,48772,Manual,First
+979,Renault,van,180,1.5,Diesel,yes,2012,Kangoo,oujda,33450,Automatic,First
+980,Renault,vagon,117,1.5,Diesel,yes,2007,Grand Scenic,rabat,91000,Manual,Third
+981,Mitsubishi,sedan,152,1.6,Petrol,yes,2007,Lancer,rabat,63000,Manual,First
+982,Mercedes-Benz,other,220,3.2,Diesel,yes,2003,E-Class,hosseima,48198,Manual,First
+983,BMW,other,160,3.0,Diesel,yes,2011,X5,agadir,18000,Manual,Second
+984,Renault,van,168,1.5,Diesel,yes,2012,Kangoo,tanger,22440,Automatic,First
+985,Toyota,other,1,2.8,Diesel,yes,2016,Hilux,marrakech,52000,Automatic,First
+986,BMW,sedan,98,2.0,Petrol,yes,2011,320,Casablanca,38000,Manual,First
+987,Mercedes-Benz,sedan,115,5.5,Petrol,yes,2011,S 500,tetouan,19008,Manual,First
+988,Volkswagen,sedan,26,1.8,Petrol,yes,2011,Passat CC,Casablanca,55000,Manual,Second
+989,Mercedes-Benz,sedan,198,4.0,Diesel,yes,2002,S 400,dakhla,45000,Manual,First
+990,Volkswagen,van,210,1.6,Gas,yes,2004,Touran,tetouan,44300,Manual,Second
+991,Mercedes-Benz,crossover,88,5.46,Petrol,yes,2013,G 63 AMG,sefrou,18000,Automatic,First
+992,Toyota,hatch,90,1.6,Petrol,yes,2012,Auris,hosseima,61726,Automatic,First
+993,Volkswagen,sedan,245,2.0,Diesel,yes,2007,Passat B6,agadir,60000,Manual,First
+994,Volkswagen,sedan,91,3.0,Diesel,yes,2012,Phaeton,hosseima,29966,Automatic,Second
+995,Volkswagen,sedan,350,2.0,Petrol,yes,1990,Passat B3,mekness,32400,Manual,First
+996,Toyota,sedan,49,3.5,Petrol,yes,2011,Camry,oujda,152000,Automatic,First
+997,Toyota,crossover,0,4.5,Diesel,yes,2016,Land Cruiser 200,dakhla,54000,Automatic,First
+998,Mitsubishi,crossover,106,3.8,Gas,yes,2007,Pajero Wagon,Casablanca,18600,Automatic,Second
+999,Renault,van,92,1.5,Diesel,yes,2013,Kangoo,tetouan,32048,Manual,First
+1000,Mercedes-Benz,sedan,470,2.0,Gas,yes,1985,190,sefrou,89616,Automatic,First
+1001,Mercedes-Benz,van,190,2.2,Diesel,yes,2009,Vito,sefrou,40000,Manual,First
+1002,BMW,sedan,150,2.5,Petrol,yes,2005,325,oujda,169000,Manual,First
+1003,Renault,vagon,155,1.5,Diesel,yes,2010,Clio,mekness,55818,Manual,Second
+1004,Mercedes-Benz,sedan,0,2.2,Diesel,yes,2015,E-Class,oujda,88000,Automatic,First
+1005,Mitsubishi,crossover,295,2.8,Diesel,yes,2004,Pajero Wagon,rabat,39000,Manual,First
+1006,Toyota,crossover,940,,Other,yes,2009,Land Cruiser 200,hosseima,13414,Automatic,First
+1007,Volkswagen,hatch,199,1.8,Petrol,yes,1996,Golf III,rabat,108000,Automatic,First
+1008,Volkswagen,van,75,1.2,Petrol,yes,2012,Caddy,tanger,92885,Manual,First
+1009,Toyota,crossover,0,4.5,Diesel,yes,2016,Land Cruiser 200,tanger,52600,Manual,First
+1010,Mitsubishi,sedan,106,2.0,Gas,yes,1997,Galant,tanger,28060,Automatic,First
+1011,Renault,vagon,151,1.5,Diesel,yes,2011,Megane,rabat,27300,Manual,First
+1012,Mitsubishi,crossover,275,3.5,Gas,yes,2000,Pajero Wagon,dakhla,57000,Manual,First
+1013,Audi,sedan,103,2.0,Diesel,yes,2013,A6,oujda,50000,Manual,First
+1014,Volkswagen,van,238,2.5,Diesel,yes,2002,T4 (Transporter),mekness,72450,Manual,First
+1015,Mitsubishi,crossover,89,3.8,Petrol,yes,2008,Pajero Wagon,Casablanca,18949,Manual,First
+1016,Renault,vagon,233,1.5,Diesel,yes,2009,Laguna,oujda,46000,Manual,First
+1017,BMW,sedan,121,2.0,Petrol,yes,2007,318,hosseima,71390,Manual,First
+1018,Volkswagen,sedan,130,1.6,Petrol,yes,2012,Polo,oujda,166194,Manual,First
+1019,Mercedes-Benz,sedan,282,2.2,Diesel,no,2000,210,tanger,52146,Manual,First
+1020,Volkswagen,sedan,324,1.6,Diesel,yes,1984,Jetta,dakhla,71649,Manual,First
+1021,Volkswagen,van,154,2.0,Gas,yes,2010,Caddy,agadir,89000,Manual,First
+1022,Volkswagen,van,181,2.0,Diesel,yes,2008,Caddy,dakhla,19543,Automatic,First
+1023,Volkswagen,van,265,2.5,Diesel,no,2007,Caravelle,dakhla,232000,Manual,First
+1024,Renault,crossover,103,2.5,Gas,yes,2010,Koleos,rabat,55000,Automatic,First
+1025,Volkswagen,hatch,132,1.4,Diesel,yes,2006,Polo,marrakech,55392,Manual,Second
+1026,Renault,van,196,1.9,Diesel,yes,2001,Kangoo,marrakech,45000,Automatic,First
+1027,BMW,sedan,280,2.0,Diesel,no,1999,320,hosseima,43983,Automatic,First
+1028,Mercedes-Benz,sedan,240,2.2,Diesel,yes,2006,E-Class,dakhla,103515,Manual,Third
+1029,Mitsubishi,other,90,,Other,no,2008,L 200,sefrou,90000,Automatic,First
+1030,Volkswagen,van,142,2.0,Diesel,yes,2006,Caddy,sefrou,55000,Manual,Second
+1031,Renault,vagon,200,1.5,Diesel,yes,2007,Megane,sefrou,620000,Manual,First
+1032,Audi,sedan,62,3.0,Petrol,yes,2013,A8,sefrou,110000,Automatic,First
+1033,BMW,crossover,164,3.0,Diesel,no,2006,X5,mekness,85000,Automatic,First
+1034,BMW,sedan,304,1.9,Gas,no,2000,318,tanger,69078,Manual,First
+1035,Mitsubishi,crossover,99,2.0,Gas,yes,2008,Outlander,marrakech,50000,Automatic,First
+1036,BMW,vagon,136,2.0,Diesel,yes,2012,520,rabat,42000,Manual,Third
+1037,Volkswagen,other,260,1.8,Gas,no,1994,Golf III,Casablanca,102000,Manual,Second
+1038,Volkswagen,crossover,63,3.0,Diesel,yes,2014,Touareg,hosseima,36657,Manual,First
+1039,Mercedes-Benz,crossover,0,3.0,Diesel,yes,2016,GL 350,mekness,107000,Manual,First
+1040,Volkswagen,hatch,182,1.9,Diesel,no,1998,Golf IV,marrakech,37382,Automatic,First
+1041,Mercedes-Benz,van,42,2.2,Diesel,yes,2014,V 250,rabat,98293,Manual,Second
+1042,Audi,crossover,0,3.0,Diesel,yes,2015,Q7,Casablanca,23000,Automatic,First
+1043,Mercedes-Benz,other,230,2.2,Diesel,yes,2001,Vito,mekness,60000,Manual,First
+1044,Audi,sedan,280,2.3,Gas,yes,1992,100,dakhla,46230,Manual,First
+1045,Renault,vagon,190,2.0,Diesel,yes,2012,Trafic,sefrou,94000,Manual,First
+1046,Renault,other,270,1.2,Gas,yes,1999,Kangoo,tanger,84360,Manual,First
+1047,Volkswagen,vagon,196,2.0,Diesel,yes,2011,Passat B7,sefrou,21000,Automatic,First
+1048,BMW,sedan,260,3.5,Petrol,yes,1997,535,dakhla,68630,Automatic,First
+1049,Audi,sedan,215,2.5,Diesel,no,2001,A6,Casablanca,38000,Manual,First
+1050,Renault,van,189,1.9,Diesel,yes,2005,Trafic,agadir,60001,Automatic,First
+1051,Audi,sedan,210,2.0,Diesel,yes,2008,A4,tetouan,40000,Manual,First
+1052,Volkswagen,vagon,200,1.9,Diesel,yes,2003,Passat B5,hosseima,83381,Manual,First
+1053,Audi,vagon,350,,Diesel,yes,2000,A6,mekness,56000,Automatic,First
+1054,Mitsubishi,other,1,2.5,Diesel,yes,2016,L 200,tanger,25166,Manual,First
+1055,Volkswagen,van,1,1.6,Diesel,yes,2011,Caddy,tetouan,27000,Manual,First
+1056,BMW,sedan,1,3.5,Petrol,yes,1999,535,tanger,14149,Manual,First
+1057,Audi,sedan,270,2.6,Petrol,yes,1995,A6,Casablanca,1997,Automatic,First
+1058,Toyota,crossover,95,2.0,Petrol,yes,2011,Rav 4,oujda,92000,Manual,First
+1059,Mercedes-Benz,sedan,320,2.7,Diesel,yes,2001,E-Class,tetouan,58589,Automatic,First
+1060,Mercedes-Benz,hatch,130,2.0,Petrol,yes,2007,B 200,sefrou,80000,Manual,First
+1061,BMW,vagon,220,2.8,Petrol,yes,1995,520,Casablanca,26000,Manual,First
+1062,Volkswagen,van,280,1.6,Diesel,yes,2011,Caddy,oujda,83000,Manual,First
+1063,Volkswagen,other,140,2.0,Other,yes,2007,Passat B6,sefrou,194000,Manual,First
+1064,Volkswagen,hatch,230,1.6,Petrol,yes,2004,Golf V,mekness,69496,Manual,First
+1065,Mercedes-Benz,sedan,212,5.5,Petrol,yes,2006,S 500,Casablanca,21000,Automatic,First
+1066,Toyota,sedan,16,2.5,Petrol,yes,2013,Camry,sefrou,67000,Manual,Third
+1067,BMW,crossover,98,3.0,Petrol,yes,2011,X6,tetouan,2800,Manual,First
+1068,Renault,van,256,1.5,Diesel,yes,2005,Kangoo,oujda,50000,Automatic,First
+1069,Renault,van,265,1.9,Diesel,no,1999,Kangoo,Casablanca,34669,Manual,First
+1070,Mercedes-Benz,crossover,0,2.99,Diesel,yes,2016,GLS 350,mekness,71000,Manual,First
+1071,Volkswagen,van,143,2.0,Diesel,yes,2012,T5 (Transporter) ,tetouan,150000,Manual,First
+1072,Audi,vagon,190,2.7,Gas,yes,2004,A6 Allroad,oujda,43000,Manual,First
+1073,Toyota,van,161,2.5,Diesel,yes,2002,Hiace,oujda,56000,Automatic,First
+1074,Toyota,crossover,135,2.0,Gas,yes,2007,Land Cruiser Prado,sefrou,75000,Manual,Second
+1075,Volkswagen,van,110,1.6,Diesel,yes,2012,Caddy,rabat,66988,Automatic,First
+1076,Audi,vagon,180,3.2,Petrol,yes,2006,A6 Allroad,hosseima,40322,Manual,First
+1077,Toyota,crossover,95,2.0,Petrol,yes,2011,Rav 4,sefrou,35000,Manual,First
+1078,Renault,vagon,185,1.5,Diesel,yes,2011,Megane,rabat,100000,Automatic,First
+1079,Mercedes-Benz,sedan,210,2.0,Petrol,yes,1995,E-Class,mekness,60000,Manual,First
+1080,Mercedes-Benz,crossover,33,5.5,Petrol,yes,2013,G 63 AMG,marrakech,167000,Manual,First
+1081,BMW,sedan,234,3.5,Gas,yes,1999,735,tanger,53211,Manual,First
+1082,Toyota,sedan,198,2.4,Gas,yes,2009,Camry,mekness,87430,Manual,First
+1083,Mercedes-Benz,crossover,208,3.5,Petrol,yes,2007,ML 350,mekness,65000,Manual,First
+1084,BMW,sedan,233,3.0,Diesel,yes,2003,530,sefrou,73000,Manual,First
+1085,Mitsubishi,sedan,78,2.4,Gas,yes,2006,Galant,tanger,19658,Automatic,First
+1086,Volkswagen,vagon,58,2.0,Diesel,yes,2013,Passat B7,sefrou,70010,Manual,First
+1087,Renault,van,250,1.9,Diesel,yes,2006,Trafic,Casablanca,51000,Automatic,First
+1088,Volkswagen,hatch,141,2.0,Petrol,yes,2000,Beetle,hosseima,37451,Manual,First
+1089,BMW,sedan,128,3.0,Diesel,yes,2013,730,tanger,90207,Manual,First
+1090,BMW,sedan,285,4.4,Gas,yes,1997,540,rabat,45275,Manual,First
+1091,Mitsubishi,sedan,105,2.0,Gas,yes,2008,Lancer X,mekness,32000,Automatic,First
+1092,Mercedes-Benz,sedan,233,3.2,Diesel,yes,2001,320,hosseima,91586,Automatic,Second
+1093,BMW,crossover,10,2.0,Diesel,yes,2016,X3,mekness,58000,Manual,First
+1094,Audi,other,124,3.0,Diesel,yes,2012,A8,tanger,39753,Automatic,First
+1095,Mercedes-Benz,sedan,173,1.8,Gas,yes,2011,E-Class,sefrou,58000,Automatic,First
+1096,Mercedes-Benz,other,196,2.2,Other,yes,2012,Sprinter 313,hosseima,66012,Manual,First
+1097,Toyota,crossover,1,4.5,Diesel,yes,2011,Land Cruiser 200,Casablanca,10500,Automatic,First
+1098,Mercedes-Benz,hatch,201,1.7,Diesel,no,2001,A 170,sefrou,101000,Manual,Third
+1099,BMW,sedan,15,3.0,Petrol,yes,2012,640,tetouan,45000,Manual,First
+1100,Audi,hatch,150,1.6,Petrol,yes,2008,A3,tanger,22526,Automatic,First
+1101,Toyota,sedan,104,2.4,Petrol,yes,2007,Camry,tanger,29634,Manual,Second
+1102,Volkswagen,crossover,156,2.0,Diesel,yes,2012,T6 (Transporter) ,Casablanca,48719,Manual,First
+1103,Renault,van,205,1.9,Diesel,yes,2006,Trafic,Casablanca,122000,Manual,Second
+1104,BMW,sedan,137,2.2,Petrol,yes,2004,520,mekness,22281,Manual,First
+1105,Volkswagen,van,317,1.9,Diesel,yes,2008,T5 (Transporter) ,tanger,15985,Manual,First
+1106,BMW,sedan,630,,Petrol,yes,2010,523,tanger,65278,Manual,First
+1107,Volkswagen,sedan,82,2.0,Diesel,yes,2012,Passat B7,rabat,20300,Automatic,First
+1108,Renault,van,210,1.1,Diesel,yes,2010,Scenic,tanger,39882,Automatic,First
+1109,BMW,vagon,335,2.0,Petrol,no,2000,320,tanger,24337,Manual,First
+1110,Audi,sedan,450,2.5,Diesel,no,1996,A6,tetouan,36000,Manual,First
+1111,Renault,vagon,123,1.5,Diesel,yes,2009,Megane,oujda,125928,Manual,First
+1112,Mercedes-Benz,crossover,0,3.0,Diesel,yes,2016,GLE-Class,oujda,75700,Manual,First
+1113,Mercedes-Benz,crossover,0,2.2,Diesel,yes,2016,GLC-Class,Casablanca,8500,Manual,Second
+1114,BMW,sedan,262,4.0,Diesel,yes,2003,740,mekness,62148,Manual,First
+1115,Volkswagen,hatch,130,1.4,Petrol,yes,2005,Golf V,Casablanca,61240,Automatic,First
+1116,BMW,crossover,189,3.0,Diesel,yes,2009,X5,tanger,93166,Manual,Second
+1117,Volkswagen,hatch,1,1.4,Gas,yes,1998,Golf IV,hosseima,69690,Manual,First
+1118,Renault,vagon,180,1.5,Diesel,yes,2012,Megane,sefrou,87000,Manual,First
+1119,Mercedes-Benz,sedan,340,5.0,Gas,yes,1997,S 140,sefrou,57818,Manual,First
+1120,Mercedes-Benz,crossover,140,5.5,Gas,yes,2008,G 55 AMG,dakhla,71000,Manual,First
+1121,Renault,vagon,189,1.5,Diesel,yes,2008,Kangoo,rabat,138000,Manual,Second
+1122,Toyota,crossover,388,4.2,Diesel,yes,1997,Land Cruiser 80,tanger,56652,Automatic,First
+1123,Volkswagen,sedan,109,1.8,Petrol,yes,2012,Passat B7,oujda,55902,Manual,First
+1124,Audi,crossover,180,3.6,Gas,yes,2007,Q7,dakhla,37282,Manual,First
+1125,Mercedes-Benz,van,344,2.2,Diesel,yes,2006,Vito,oujda,55277,Manual,First
+1126,Mercedes-Benz,sedan,269,2.2,Petrol,yes,1994,E-Class,Casablanca,3000,Automatic,First
+1127,BMW,other,35,3.0,Petrol,yes,2008,630,Casablanca,9000,Manual,First
+1128,Toyota,crossover,263,4.2,Diesel,yes,2001,Land Cruiser 100,tetouan,45000,Manual,First
+1129,Mercedes-Benz,other,170,2.2,Petrol,no,2001,CLK 220,Casablanca,93000,Manual,Third
+1130,BMW,crossover,0,4.4,Petrol,yes,2016,X6 M,mekness,6000,Automatic,First
+1131,Mercedes-Benz,crossover,195,5.0,Gas,yes,2002,G 500,Casablanca,34000,Automatic,First
+1132,Mercedes-Benz,sedan,275,2.2,Other,yes,2005,E-Class,marrakech,50000,Manual,First
+1133,Mercedes-Benz,sedan,3,1.6,Petrol,yes,2014,CLA 200,hosseima,34613,Manual,First
+1134,Renault,vagon,1,1.2,Petrol,yes,2015,Logan,rabat,55000,Manual,Second
+1135,Mitsubishi,crossover,121,3.8,Gas,yes,2008,Pajero Wagon,hosseima,80464,Automatic,Second
+1136,Volkswagen,van,152,2.0,Diesel,yes,2012,Sharan,Casablanca,82000,Automatic,Second
+1137,Toyota,sedan,200,2.2,Petrol,yes,1999,Camry,tanger,72022,Manual,First
+1138,Mercedes-Benz,other,215,2.2,Diesel,yes,2007,Vito,mekness,55000,Manual,First
+1139,Mitsubishi,sedan,128,,Petrol,yes,2007,Colt,mekness,27000,Manual,First
+1140,Mitsubishi,crossover,119,2.4,Gas,yes,2008,Outlander,mekness,71088,Manual,First
+1141,Renault,other,110,1.5,Diesel,yes,2012,Kangoo,mekness,120000,Manual,First
+1142,Volkswagen,vagon,132,2.8,Gas,yes,1995,Passat B4,hosseima,66400,Manual,First
+1143,Renault,vagon,252,1.5,Diesel,yes,2007,Kangoo,hosseima,13190,Automatic,First
+1144,Mercedes-Benz,crossover,218,3.0,Diesel,yes,2006,ML 280,Casablanca,7400,Manual,First
+1145,BMW,crossover,175,3.0,Gas,no,2005,X5,agadir,75000,Manual,First
+1146,Volkswagen,van,185,,Diesel,yes,2006,Caddy,hosseima,32298,Automatic,First
+1147,Volkswagen,vagon,289,2.0,Petrol,yes,1994,Passat B4,tanger,47303,Automatic,First
+1148,Toyota,crossover,40,4.5,Diesel,yes,2014,Land Cruiser 200,tanger,24852,Automatic,First
+1149,Audi,crossover,64,3.0,Diesel,yes,2013,Q7,hosseima,26038,Manual,First
+1150,Volkswagen,van,235,1.9,Diesel,yes,2004,T5 (Transporter),sefrou,115000,Manual,Second
+1151,Mitsubishi,sedan,40,2.0,Petrol,yes,2013,Lancer Evolution,dakhla,42000,Manual,Second
+1152,Volkswagen,van,176,1.9,Diesel,yes,2005,T5 (Transporter),rabat,102000,Automatic,First
+1153,Audi,sedan,274,1.8,Gas,yes,2003,A6,agadir,55002,Manual,First
+1154,BMW,sedan,42,2.0,Diesel,yes,2014,520,tetouan,24000,Manual,Second
+1155,Toyota,crossover,320,4.2,Diesel,yes,1999,Land Cruiser 100,mekness,70707,Manual,First
+1156,Mercedes-Benz,sedan,230,5.0,Petrol,yes,2002,E-Class,dakhla,147350,Manual,Second
+1157,Volkswagen,sedan,135,1.6,Gas,yes,2011,Polo,hosseima,35676,Automatic,First
+1158,Mitsubishi,sedan,152,1.6,Petrol,yes,2006,Lancer,sefrou,58000,Manual,Second
+1159,Volkswagen,vagon,199,1.8,Petrol,yes,1999,Sharan,dakhla,34000,Automatic,First
+1160,BMW,sedan,102,2.0,Petrol,yes,2011,320,tanger,20492,Manual,First
+1161,Toyota,sedan,144,1.3,Petrol,yes,2012,Corolla,sefrou,120000,Manual,Second
+1162,Volkswagen,hatch,400,1.3,Other,yes,1987,Golf II,oujda,26000,Manual,First
+1163,Volkswagen,other,123,1.4,Petrol,yes,2008,Polo,sefrou,18500,Automatic,First
+1164,Volkswagen,other,189,2.0,Diesel,yes,2011,Caddy,hosseima,19148,Manual,First
+1165,Audi,crossover,0,3.0,Diesel,yes,2015,Q7,oujda,45000,Automatic,First
+1166,Volkswagen,van,177,2.0,Diesel,yes,2011,Caddy,mekness,60750,Manual,First
+1167,Toyota,sedan,58,2.5,Petrol,yes,2015,Camry,dakhla,63000,Manual,First
+1168,Audi,other,222,,Diesel,yes,2007,Q7,oujda,96000,Manual,First
+1169,Volkswagen,sedan,144,2.0,Diesel,yes,2008,Passat B6,Casablanca,70700,Manual,First
+1170,Audi,other,126,3.0,Diesel,yes,2010,Q7,tetouan,27000,Manual,First
+1171,BMW,sedan,266,3.5,Petrol,no,1997,535,tetouan,67000,Manual,First
+1172,Volkswagen,sedan,140,1.6,Petrol,yes,2012,Polo,oujda,55000,Manual,First
+1173,Mitsubishi,sedan,57,1.5,Gas,yes,2011,Lancer X,dakhla,32531,Automatic,Second
+1174,Mercedes-Benz,vagon,248,2.0,Gas,yes,1996,E-Class,oujda,82749,Manual,First
+1175,Audi,crossover,27,2.0,Petrol,yes,2011,Q5,tanger,23576,Automatic,First
+1176,Volkswagen,sedan,136,1.6,Diesel,yes,2010,Passat B6,tanger,37247,Manual,First
+1177,Volkswagen,other,200,1.6,Petrol,no,1999,Golf IV,mekness,63210,Manual,First
+1178,Toyota,crossover,132,2.7,Gas,yes,2012,Venza,tanger,50808,Manual,Second
+1179,Mercedes-Benz,other,157,2.2,Diesel,yes,2012,Vito,oujda,75000,Manual,First
+1180,Mercedes-Benz,sedan,200,5.5,Petrol,yes,2008,S 550,Casablanca,66000,Manual,First
+1181,Volkswagen,van,224,2.5,Diesel,yes,2006,T5 (Transporter),Casablanca,14000,Manual,First
+1182,BMW,sedan,194,2.0,Petrol,yes,1985,520,Casablanca,103000,Automatic,First
+1183,BMW,crossover,260,3.0,Diesel,yes,2006,X5,dakhla,74213,Automatic,First
+1184,BMW,sedan,30,4.4,Petrol,yes,2014,M5,Casablanca,56000,Manual,Second
+1185,Mercedes-Benz,van,300,2.2,Diesel,yes,2007,Vito,sefrou,25000,Automatic,First
+1186,Mercedes-Benz,sedan,313,3.2,Diesel,yes,2003,S 320,oujda,85000,Automatic,First
+1187,Renault,other,245,2.0,Petrol,no,1998,Megane,mekness,38000,Automatic,First
+1188,Volkswagen,sedan,238,2.0,Gas,no,2002,Passat B5,oujda,130000,Manual,First
+1189,Volkswagen,crossover,80,3.0,Diesel,yes,2014,Touareg,dakhla,116000,Manual,Second
+1190,Volkswagen,van,283,2.5,Diesel,yes,2005,T5 (Transporter),hosseima,82603,Manual,First
+1191,Mitsubishi,sedan,250,2.0,Petrol,yes,2007,Lancer X,sefrou,75000,Manual,First
+1192,Volkswagen,sedan,0,2.0,Diesel,yes,2016,Passat B8,Casablanca,17000,Manual,First
+1193,Volkswagen,hatch,288,1.8,Gas,yes,1996,Golf III,Casablanca,62000,Manual,Second
+1194,Volkswagen,sedan,1,1.6,Petrol,yes,2014,Polo,oujda,54348,Automatic,First
+1195,Audi,crossover,100,3.0,Diesel,yes,2011,Q7,rabat,9200,Manual,First
+1196,Renault,van,200,2.2,Diesel,yes,2002,Espace,tanger,77240,Automatic,First
+1197,Mercedes-Benz,other,248,2.0,Petrol,no,1999,CLK 200,rabat,60000,Manual,First
+1198,Mercedes-Benz,sedan,173,1.8,Gas,yes,2011,E-Class,dakhla,100000,Automatic,First
+1199,Mercedes-Benz,sedan,137,3.0,Diesel,yes,2011,E-Class,hosseima,13102,Manual,First
+1200,Mercedes-Benz,crossover,0,2.2,Diesel,yes,2016,GLC-Class,oujda,84060,Manual,Second
+1201,Mercedes-Benz,sedan,280,,Gas,yes,1999,E-Class,mekness,67000,Automatic,First
+1202,Toyota,sedan,108,1.6,Petrol,yes,2008,Corolla,rabat,54000,Manual,First
+1203,BMW,other,253,1.8,Petrol,yes,1995,318,Casablanca,22000,Manual,First
+1204,Volkswagen,sedan,235,2.0,Petrol,yes,2007,Passat B6,marrakech,32700,Automatic,First
+1205,Volkswagen,sedan,128,1.8,Petrol,yes,2013,Passat B7,Casablanca,86340,Automatic,Second
+1206,Mercedes-Benz,sedan,131,5.5,Gas,yes,2008,S 500,rabat,17585,Automatic,First
+1207,Audi,vagon,1,2.0,Diesel,yes,2008,A4,oujda,57000,Automatic,First
+1208,Volkswagen,hatch,122,1.4,Petrol,yes,1993,Golf III,Casablanca,12000,Manual,First
+1209,Volkswagen,sedan,190,99.99,Petrol,yes,1998,Passat B5,mekness,45000,Manual,First
+1210,Mercedes-Benz,sedan,40,3.0,Diesel,yes,2014,S 350,oujda,96000,Manual,Second
+1211,Toyota,crossover,3,4.5,Diesel,yes,2016,Land Cruiser 200,marrakech,51000,Automatic,First
+1212,BMW,crossover,200,4.8,Other,yes,2007,X5,mekness,73539,Manual,First
+1213,Mitsubishi,crossover,142,2.4,Gas,yes,2008,Outlander XL,tetouan,120000,Manual,First
+1214,Renault,other,39,1.5,Diesel,yes,2014,Kangoo,rabat,80000,Automatic,First
+1215,Volkswagen,sedan,500,1.9,Diesel,yes,1995,Passat B4,Casablanca,22000,Manual,First
+1216,BMW,sedan,327,3.0,Diesel,no,2001,730,hosseima,71787,Manual,First
+1217,Mercedes-Benz,van,1,2.2,Diesel,yes,2004,Vito,mekness,17000,Manual,First
+1218,Mercedes-Benz,crossover,1,3.0,Diesel,yes,2016,GLS 350,hosseima,27969,Manual,First
+1219,Renault,hatch,100,1.5,Diesel,yes,2010,Megane,tetouan,22000,Manual,First
+1220,Renault,van,54,66.0,Other,yes,2012,Kangoo,tanger,2526,Automatic,First
+1221,BMW,sedan,250,1.9,Petrol,yes,2001,316,marrakech,39525,Automatic,First
+1222,Volkswagen,crossover,58,1.4,Petrol,yes,2014,Tiguan,sefrou,90000,Manual,First
+1223,Volkswagen,sedan,80,1.6,Petrol,yes,2011,Polo,oujda,28226,Automatic,First
+1224,Mercedes-Benz,sedan,172,2.8,Petrol,yes,1997,E-Class,sefrou,122000,Manual,Second
+1225,BMW,hatch,1,2.0,Petrol,yes,2006,120,tanger,61108,Automatic,First
+1226,Mercedes-Benz,sedan,25,3.0,Diesel,yes,2014,S 350,sefrou,45000,Manual,First
+1227,BMW,other,100,5.0,Petrol,yes,2005,M5,mekness,90000,Manual,First
+1228,Volkswagen,sedan,152,1.8,Petrol,yes,2008,Passat B6,tanger,62788,Manual,First
+1229,Audi,sedan,131,1.8,Petrol,yes,2005,A4,Casablanca,44000,Manual,First
+1230,Volkswagen,crossover,145,3.0,Diesel,yes,2007,Touareg,dakhla,42000,Manual,Second
+1231,BMW,sedan,355,3.0,Diesel,yes,2000,730,agadir,55362,Manual,First
+1232,Toyota,sedan,157,2.4,Gas,yes,2009,Camry,mekness,15000,Automatic,First
+1233,Toyota,sedan,0,1.3,Petrol,yes,2015,Corolla,dakhla,126000,Manual,First
+1234,BMW,sedan,350,2.5,Diesel,yes,1998,525,rabat,50000,Automatic,First
+1235,BMW,sedan,270,4.4,Petrol,yes,1996,540,Casablanca,25121,Manual,First
+1236,Volkswagen,van,258,2.5,Diesel,yes,2001,T4 (Transporter) ,Casablanca,59000,Manual,First
+1237,Toyota,sedan,25,2.5,Petrol,yes,2014,Camry,dakhla,61000,Manual,First
+1238,Renault,van,160,1.5,Diesel,yes,2010,Grand Scenic,oujda,86300,Manual,First
+1239,Audi,vagon,151,2.0,Diesel,yes,2010,A4,rabat,58407,Manual,First
+1240,Mercedes-Benz,sedan,0,1.6,Petrol,yes,2016,C-Class,sefrou,67620,Manual,Second
+1241,Volkswagen,sedan,185,1.6,Petrol,yes,2007,Jetta,sefrou,23000,Manual,First
+1242,Mercedes-Benz,van,0,2.2,Diesel,yes,2016,Vito,mekness,48000,Automatic,First
+1243,Audi,crossover,105,4.2,Gas,yes,2007,Q7,marrakech,72000,Manual,Second
+1244,Mercedes-Benz,sedan,150,3.5,Gas,yes,2008,S 350,dakhla,50510,Automatic,First
+1245,Toyota,crossover,43,3.0,Other,yes,2014,Land Cruiser Prado,rabat,63600,Manual,Second
+1246,Renault,vagon,165,1.5,Diesel,yes,2012,Megane,mekness,80000,Automatic,First
+1247,Mercedes-Benz,sedan,300,1.8,Petrol,yes,1996,C-Class,Casablanca,7000,Manual,First
+1248,Toyota,crossover,93,2.7,Other,yes,2011,Venza,mekness,30000,Manual,Second
+1249,Audi,sedan,108,2.0,Diesel,yes,2013,A6,rabat,112000,Manual,First
+1250,Toyota,crossover,70,2.7,Petrol,yes,2008,Land Cruiser Prado,hosseima,34697,Manual,First
+1251,Mercedes-Benz,crossover,0,6.3,Petrol,yes,2016,S 63 AMG,tetouan,25000,Manual,First
+1252,BMW,sedan,290,2.0,Diesel,no,1999,320,hosseima,58752,Manual,First
+1253,Volkswagen,other,160,2.0,Diesel,yes,2012,Amarok,dakhla,35000,Manual,Third
+1254,Renault,van,149,1.5,Diesel,yes,2013,Kangoo,hosseima,63998,Automatic,First
+1255,BMW,sedan,320,3.0,Gas,yes,2000,530,mekness,45376,Manual,First
+1256,Toyota,sedan,1,2.5,Petrol,yes,2016,Camry,hosseima,55700,Manual,First
+1257,Renault,hatch,96,1.4,Petrol,yes,2010,Sandero,sefrou,32200,Manual,Second
+1258,Volkswagen,hatch,51,2.0,Petrol,yes,2013,New Beetle,hosseima,5354,Automatic,First
+1259,Audi,crossover,183,4.2,Petrol,yes,2007,Q7,rabat,137000,Automatic,First
+1260,Volkswagen,sedan,200,1.8,Petrol,yes,1989,Passat B3,Casablanca,64000,Manual,Second
+1261,Mitsubishi,crossover,122,3.2,Diesel,yes,2009,Pajero Wagon,dakhla,120000,Manual,Second
+1262,Renault,van,83,,Other,yes,2013,Kangoo,oujda,158000,Manual,Second
+1263,Renault,van,67,1.6,Petrol,yes,2012,Scenic,tetouan,18000,Manual,First
+1264,Mercedes-Benz,sedan,180,3.0,Diesel,yes,2008,E-Class,Casablanca,52000,Automatic,First
+1265,BMW,crossover,1,2.0,Diesel,yes,2016,X5,Casablanca,11734,Manual,First
+1266,Volkswagen,hatch,250,1.9,Diesel,no,1994,Golf III,oujda,35433,Manual,First
+1267,Mercedes-Benz,sedan,17,3.0,Diesel,yes,2015,S 350,mekness,33000,Manual,First
+1268,Audi,vagon,0,3.0,Diesel,yes,2016,A6 Allroad,tetouan,75000,Manual,First
+1269,Audi,sedan,250,2.4,Gas,yes,1998,A6,Casablanca,32896,Automatic,First
+1270,BMW,sedan,230,2.0,Petrol,yes,1998,520,mekness,59000,Automatic,First
+1271,Volkswagen,sedan,180,1.8,Gas,yes,2005,Passat B5,hosseima,44378,Manual,First
+1272,Toyota,sedan,156,,Gas,yes,2005,Camry,hosseima,16542,Manual,First
+1273,Toyota,crossover,118,2.7,Petrol,yes,2011,Land Cruiser Prado,dakhla,70933,Manual,Second
+1274,Mitsubishi,van,258,,Diesel,yes,1999,L 400,mekness,80000,Manual,First
+1275,Mercedes-Benz,sedan,29,6.3,Petrol,yes,2007,S 63 AMG,oujda,66285,Manual,First
+1276,BMW,crossover,82,3.0,Petrol,yes,2010,X6,Casablanca,67000,Automatic,Second
+1277,Volkswagen,vagon,185,1.4,Petrol,yes,2011,Golf VI,mekness,74663,Manual,First
+1278,Mitsubishi,sedan,176,1.6,Petrol,yes,2004,Lancer,dakhla,84085,Manual,First
+1279,Renault,vagon,220,2.5,Other,yes,2006,Trafic,tanger,65257,Manual,First
+1280,Mercedes-Benz,vagon,235,2.9,Diesel,yes,1997,E-Class,sefrou,130000,Manual,First
+1281,Renault,other,160,2.0,Petrol,no,2001,Megane,marrakech,102016,Manual,First
+1282,Volkswagen,van,230,3.2,Gas,yes,2008,Multivan,tanger,25299,Manual,First
+1283,Volkswagen,hatch,118,1.2,Diesel,yes,2011,Polo,Casablanca,33000,Manual,First
+1284,Renault,van,177,1.5,Diesel,yes,2007,Grand Scenic,Casablanca,40000,Manual,Second
+1285,Toyota,sedan,130,,Petrol,yes,2008,Corolla,rabat,55960,Manual,First
+1286,Toyota,sedan,140,1.4,Petrol,yes,2012,Corolla,tetouan,43000,Manual,First
+1287,BMW,crossover,5,4.4,Petrol,yes,2015,X5 M,rabat,92000,Manual,Second
+1288,Audi,crossover,118,2.0,Diesel,yes,2013,Q5,rabat,12000,Manual,First
+1289,Renault,van,177,2.0,Diesel,yes,2008,Trafic,sefrou,77000,Manual,Second
+1290,Mercedes-Benz,crossover,200,4.0,Diesel,yes,2007,GL 420,tetouan,45200,Manual,First
+1291,Toyota,sedan,185,3.5,Petrol,yes,2008,Camry,sefrou,48000,Manual,First
+1292,Mercedes-Benz,van,280,2.2,Diesel,yes,2001,Vito,tetouan,35000,Manual,First
+1293,BMW,sedan,204,1.8,Petrol,yes,1993,318,agadir,56454,Manual,First
+1294,Audi,sedan,122,2.0,Petrol,yes,2011,A6,Casablanca,8682,Automatic,First
+1295,Renault,vagon,180,1.5,Diesel,yes,2012,Megane,tetouan,57000,Manual,First
+1296,Volkswagen,vagon,289,,Diesel,yes,2003,Passat B5,mekness,65000,Manual,First
+1297,Renault,van,207,1.9,Diesel,yes,2003,Trafic,mekness,84000,Manual,First
+1298,Volkswagen,sedan,136,2.0,Diesel,yes,2011,Passat B7,rabat,90000,Manual,Second
+1299,Volkswagen,sedan,1,1.6,Petrol,yes,2015,Polo,oujda,41372,Manual,First
+1300,Mercedes-Benz,other,220,2.2,Diesel,yes,2005,Vito,Casablanca,53000,Manual,First
+1301,Volkswagen,other,28,2.0,Diesel,yes,2015,Amarok,tanger,28733,Automatic,Second
+1302,Renault,van,175,2.0,Diesel,yes,2007,Trafic,tanger,57717,Manual,First
+1303,Audi,sedan,112,1.6,Petrol,yes,1980,80,tetouan,45044,Manual,First
+1304,Mercedes-Benz,van,180,2.3,Diesel,yes,1998,Vito,hosseima,29836,Automatic,First
